@@ -1,0 +1,26 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Mind if we ask you a few questions? 
+
+************************************************
+As the physician shortage continues to grow, facilities struggle to fill medical oncologist positions. We’d appreciate your insights on seeking opportunities in this field. Even if you aren’t currently looking, your opinion can be very helpful. 
+
+Complete our quick survey and we’ll enter your name in a drawing to win a $300 American Express gift card.*
+
+Take Survey > https://survey.co1.qualtrics.com/SE/?SID=SV_0Tngr3EZAEmbf2B&source=et-%%emailname_%%-%%jobid%%
+
+To speak to a personal recruiter directly, call 866.551.2527.
+
+*Drawing will be held February 22, 2016. Winner will be notified via email and shipping arrangements will be made. 
+
+************************************************
+866.551.2527
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

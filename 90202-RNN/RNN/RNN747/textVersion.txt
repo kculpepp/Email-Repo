@@ -1,0 +1,44 @@
+
+
+To make sure you receive our emails, please add rnnetwork@rnnetworkinfo.com to your address book
+************************************************
+%%xtmonth%% %%xtday%%, %%xtyear%%  
+
+More Travel Jobs Nationwide
+************************************************
+Search jobs by region
+
+West:
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&region=West&specialty=%%site specialty type%% 
+
+Southwest:
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&region=Southwest&specialty=%%site specialty type%%
+
+Midwest:
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&region=Midwest&specialty=%%site specialty type%%
+
+Northeast: 
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&region=Northeast&specialty=%%site specialty type%%
+
+Southeast:
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&region=Southeast&specialty=%%site specialty type%%
+
+************************************************
+The good news just keeps rolling in. RNnetwork now has more %%[if not empty([Specialty]) then ]%%%%=Trim([Specialty])=%%%%[endif]%% jobs available than ever before, and the number is still growing.
+
+These new jobs open and close quickly, so check back often. Our friendly recruiters are happy to pair you with an assignment that meets your preferences as well as your career goals.
+
+Visit our website today to search jobs by region or state.
+
+View All Jobs:
+http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%&specialty=%%site specialty type%%
+
+************************************************
+866.265.0204
+
+We Respect Your Right to Privacy | http://www.rnnetwork.com/privacy-policy?source=et-%%emailname_%%-%%jobid%%
+Update Profile/ Unsubscribe | %%profile_center_url%%?source=et-%%emailname_%%-%%jobid%%
+Search Jobs | http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

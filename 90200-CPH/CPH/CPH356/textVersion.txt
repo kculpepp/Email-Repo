@@ -1,0 +1,26 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+We’re here to help you transition from training to career.
+
+************************************************
+Thanks for taking the time to visit with us at the Career MD Fair in Chicago. We’re looking forward to getting to know you better and connecting you with your just-right job. As the industry’s largest physician staffing firm, we offer a variety of permanent and locum tenens (temporary) jobs across the country. Let’s find the one that’s right for you.
+
+Start Now > http://www.comphealth.com/sites/comphealth/lp/Pages/cph-356.aspx?source=et-%%emailname_%%-%%jobid%%
+
+************************************************ 
+
+Feel free to call us directly at 866.418.6967 or search our current physician job openings (http://www.comphealth.com/physician?source=et-%%emailname_%%-%%jobid%%). 
+
+We also provide valuable career information about CV writing, contract negotiation, licensing, malpractice insurance, and more at CompHealth.com (http://www.comphealth.com/resources/resident-and-fellow-resources/?source=et-%%emailname_%%-%%jobid%%).
+
+************************************************
+866.418.6967
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

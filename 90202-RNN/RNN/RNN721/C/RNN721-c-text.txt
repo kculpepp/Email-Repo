@@ -1,0 +1,30 @@
+
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add rnnetwork@rnnetworkinfo.com to your address book
+************************************************
+Your Referral Bonus
+Could be a Click Away
+
+************************************************
+It's never been easier to refer a colleague to RNnetwork.You can use the online form or simply call your recruiter. You'll earn $500 for your successful referral, $750 for your second, then $1000 for any after that.
+
+   •   Super-simple referral process
+   •   Unlimited bonuses per year
+   •   Fast payout
+
+Refer now.
+
+Submit Online > http://www.rnnetwork.com/pay-benefits/refer-a-nurse-form?source=et-%%emailname_%%-%%jobid%%
+************************************************
+
+We Respect Your Right to Privacy | http://www.rnnetwork.com/privacy-policy?source=et-%%emailname_%%-%%jobid%%
+Update Profile/ Unsubscribe | %%profile_center_url%%
+Search Jobs | http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%-%%jobid%%
+
+This email was sent by:
+%%Member_Busname%%
+%%Member_Addr%%
+%%Member_City%%, %%Member_State%%, %%Member_PostalCode%%, %%Member_Country%%
+
+This Email Was Sent by %%Member_Busname%%

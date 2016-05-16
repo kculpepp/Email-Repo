@@ -1,0 +1,19 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add weatherbyhealthcare@weatherbyhealthcareinfo.com to your address book
+************************************************
+The Affordable Care Act requires employers to provide you a 1095-C Form to document your enrollment in healthcare coverage. Weatherby Healthcare is currently producing a Form 1095-C for anyone who was employed by Weatherby Healthcare in 2015. 
+
+Your 1095-C will be mailed to your home address. Although you do not need to provide your 1095-C Form with your 2015 tax filing, please save this form with your tax documents.
+
+If you have questions, please contact the benefits team (benefits@chghealthcare.com) at 800.811.1796.
+
+************************************************
+800.811.1796
+
+We Respect Your Right to Privacy | http://www.weatherbyhealthcare.com/privacy-policy.aspx?source=et-%%emailname_%%
+Update Profile/ Unsubscribe | %%profile_center_url%%
+Search Jobs | http://www.weatherbyhealthcare.com/jobs?source=et-%%emailname_%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

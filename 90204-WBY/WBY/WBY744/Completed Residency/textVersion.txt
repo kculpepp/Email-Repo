@@ -1,0 +1,31 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add weatherbyhealthcare@weatherbyhealthcareinfo.com to your address book
+************************************************
+Your Experience Qualifies You for More
+
+************************************************
+Did you know nearly 70 percent of all physicians change jobs in the first two years? If you've wondered what else is out there, or just want a broader range of experiences, locum tenens could be just what you need. 
+
+Locum Tenens Offers You:
+ • Flexible schedules to work when and where you want
+ • Extra income to help pay down debts faster
+ • Opportunities to work in a variety of settings
+ • Exposure to new practices and procedures
+ • All at no cost to you
+
+Take the Next Step > http://www.weatherbyhealthcare.com/jobs?source=et-%%emailname_%%-%%jobid%%
+
+************************************************ 
+Want to learn more about locum tenens? Download "An Introduction to Locum Tenens" 
+
+http://image.weatherbyhealthcareinfo.com/lib/ff001d70776400/d/1/An_Introduction_to_Locums.pdf?source=et-%%emailname_%%-%%jobid%%
+************************************************
+866.418.4590
+
+We Respect Your Right to Privacy | http://www.weatherbyhealthcare.com/privacy-policy.aspx?source=et-%%emailname_%%
+Update Profile/ Unsubsribe | %%profile_center_url%%
+Search Jobs | http://www.weatherbyhealthcare.com/jobs?source=et-%%emailname_%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

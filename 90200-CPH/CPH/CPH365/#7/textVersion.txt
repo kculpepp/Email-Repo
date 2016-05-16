@@ -1,0 +1,21 @@
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Choose from job openings across the country. (http://www.comphealth.com/job-opportunities?source=et-%%emailname_%%-%%jobid%%)
+
+************************************************
+CompHealth has more physician jobs in more locations than any other healthcare-staffing firm in the country. And more jobs means the best chances of finding your just-right job. Tell a CompHealth recruiter about your skills, goals, and lifestyle, and they'll do the rest.
+
+View Jobs > http://www.comphealth.com/job-opportunities?source=et-%%emailname_%%-%%jobid%%
+
+Contact our %%resident_fellow%% recruiter at kerry.wagner@comphealth.com.
+
+************************************************
+866.704.5284
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

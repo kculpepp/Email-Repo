@@ -1,0 +1,68 @@
+2016 Email Team Testing Process Documentation
+---------------------------------------------
+
+Prior to Programming.
+~~~~~~~~~~~~~~~~~~~~~
+1)   Add the email to Wunderlist --> EDM Jobs
+
+
+From the point of sending a programmed emailed in to testing the following actions are taken.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1)   Send the Text Version of the email to my work email (kacy.culpepper@chghealthcare.com) for testing within Microsoft Outlook and if it looks good there it looks good everywhere.
+
+2)   Send the HTML version of the email to my work email + kacy.culpepper@litmustest.com (for LITMUS testing) + chg.interactive.email@gmail.com (for device testing)
+
+3)   The following processes are for testing within LITMUS.
+	a)   Email is received, titled, and appeneded with a time and date stamp ([Email Name] @ 01/04/2016 10:33).
+	b)   Tags are added to email to catorgorize LITMUS into Brand, Year, and Campaign.
+	c)   View the screenshots taken by LITMUS. Currently the testing includes the following Email Clients to test with:
+
+			~ DESKTOP CLIENTS ~
+
+			-   Apple Mail 8
+			-   Outlook 2007		
+			-   Outlook 2010
+			-   Outlook 2011	
+ 
+			~ MOBILE CLIENTS ~
+			-   Gmail App
+			-   iPhone 5s (iOS 7)
+			-   iPhone 6 Plus
+			-   iPhone 6s Plus
+
+			~ TABLET CLIENTS ~
+			-   iPad (retina)
+			-   iPad Mini
+
+			~ WEB BASED CLIENTS ~
+			-   AOL Mail
+			-   Gmail
+			-   Outlook.com
+			-   Yahoo! Email
+
+	d)   Check the ALT Text to assure it's the content assigned by the copywriters
+	e)   Assure there are no broken links
+	f)   Check off the remaining checklist if no errors thus far.
+
+4)   Check the Interactive Team's testing devices, primary email client application to assure that the email functions correctly.
+
+	~ INTERACTIVE TEAM's TESTING DEVICES ~
+		-   iPad Air (10")
+		-   iPhone 6 Plus
+		-   iPhone 4 w/ a Verizon Data/Voice/Text plan
+		-   Samsung Galaxy S6
+
+5)   Upload to VT the text and HTML emails, which have been auto forwarded in Outlook to go to the ---> Test Emails Folder. 
+
+     		Text Version -  a)   Right click the email
+				b)   Select "Quick Print"
+				c)   Print as "CutePDF" to save the email as a PDF
+
+		HTML version -  Copy the "view in browser URL" found in the top of the text version. 
+
+6)   Send out test emails to assigned email testers via Outlook
+
+7)   Check job off in Wunderlist to save the time it took to complete the email. The times can be found in the the FED - EMAIL Slack Channel.   
+	
+			

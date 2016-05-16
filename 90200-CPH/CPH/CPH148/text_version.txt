@@ -1,0 +1,41 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Work where you want. 
+Love what you do.
+
+View All Jobs > http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%%
+
+************************************************ 
+Let’s find your just-right %%=LOWERCASE([Primary Specialty])=%% job. Feel free to share your needs and your wants. Knowing them is how our recruiters consistently find a job with your name on it.
+
+We also handle the details like hospital credentialing and travel arrangements, so you can focus on enjoying your job and the location you’ve chosen.
+
+View All Jobs > http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+West:
+http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?state=Alaska,California,Colorado,Hawaii,Idaho,Montana,Nevada,Oregon,Utah,Washington,Wyoming&source=et-%%emailname_%%-%%jobid%% 
+
+Midwest:
+http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?state=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Missouri,Nebraska,North+Dakota,Ohio,South+Dakota,Wisconsin&source=et-%%emailname_%%-%%jobid%% 
+
+Southwest:
+http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?state=Arizona,New+Mexico,Oklahoma,Texas&source=et-%%emailname_%%-%%jobid%% 
+
+East:
+http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?state=Connecticut,Delaware,District+of+Columbia,Maine,Maryland,Massachusetts,New+Hampshire,New+Jersey,New+York,Pennsylvania,Rhode+Island,Vermont&source=et-%%emailname_%%-%%jobid%% 
+
+Southeast:
+http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?state=Alabama,Arkansas,Florida,Georgia,Kentucky,Louisiana,Mississippi,North+Carolina,South+Carolina,Tennessee,Virginia,West+Virginia&source=et-%%emailname_%%-%%jobid%% 
+
+************************************************
+866.588.5996
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

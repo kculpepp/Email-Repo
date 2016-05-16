@@ -1,0 +1,31 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Meet with us in Chicago and give your career a boost
+
+************************************************
+When it comes to finding your first job, it pays to have an experienced recruiter in your corner. We understand the needs of residents and fellows and work to connect you to the job that's just right for you.  
+
+Visit with us at the CareerMD career fair in Chicago and we'll show you how easy it is to get started.
+
+Chicago CareerMD Career Fair
+Tuesday, February 9, 5–8 pm
+UIC Forum
+725 W Roosevelt Road 
+Chicago, IL 60608
+312.413.9875
+
+Get your spot and register here: http://www.careermd.com/physicians/careerfairs/details.aspx?fairid=666&source=et-%%emailname_%%-%%jobid%% 
+
+Questions? Contact our residents and fellows consultant Kerry Wagner: 866.418.6967.
+
+************************************************
+866.418.6967
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

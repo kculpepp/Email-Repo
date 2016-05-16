@@ -1,0 +1,18 @@
+
+
+To make sure you receive our emails, please add weatherbyhealthcare@weatherbyhealthcareinfo.com to your address book
+************************************************
+headline
+
+************************************************
+body
+
+************************************************
+footer
+
+We Respect Your Right to Privacy | http://www.weatherbyhealthcare.com/privacy-policy.aspx?source=et-%%emailname_%%
+Update Profile/ Unsubscribe | %%profile_center_url%%
+Search Jobs | http://www.weatherbyhealthcare.com/jobs?source=et-%%emailname_%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

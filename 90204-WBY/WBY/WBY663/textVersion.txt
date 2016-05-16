@@ -1,0 +1,27 @@
+
+
+To make sure you receive our emails, please add weatherbyhealthcare@weatherbyhealthcareinfo.com to your address book
+************************************************
+Be the First to See Our Newest Physician/Advanced Practice Jobs
+
+Start Here > http://www.weatherbyhealthcare.com/jobs/%%[if not empty([Primary Specialty]) then ]%%%%=Trim([Primary Specialty])=%%%%[endif]%%?source=et-%%emailname_%%-%%jobid%%
+************************************************
+The best jobs go fast. That's why we suggest checking our job board often. New jobs are added regularly so you can find the one that's perfect for you.
+
+• Paid malpractice insurance
+• Paid housing and travel costs
+• A committed personal consultant
+
+Don’t miss out on your next job. Search the job board today.
+
+Start Here > http://www.weatherbyhealthcare.com/jobs/%%[if not empty([Primary Specialty]) then ]%%%%=Trim([Primary Specialty])=%%%%[endif]%%?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+866.418.1590
+
+We Respect Your Right to Privacy | http://www.weatherbyhealthcare.com/privacy-policy.aspx?source=et-%%emailname_%%
+Update Profile/ Unsubscribe | %%profile_center_url%%
+Search Jobs | http://www.weatherbyhealthcare.com/jobs?source=et-%%emailname_%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

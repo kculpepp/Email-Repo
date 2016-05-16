@@ -1,0 +1,25 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Prepare now to get the salary you deserve.
+
+************************************************
+When it comes to compensation, every offer you don’t negotiate is salary and benefits you’re missing out on. We want you to get what you deserve. 
+
+That’s why we help fellows like you learn to negotiate and get the best package available. Our recruiters will answer questions, provide coaching, and help you gain much-needed confidence.
+
+We also have a full library of aids, articles, and materials on our Resources (http://www.comphealth.com/resources/for-job-seekers/?source=et-%%emailname_%%-%%jobid%%) page, including our “Contract Negotiation Checklist.” It’s completely free and ready to use. Check it out and then give us a call. We’re happy to help you with all aspects of your job search. 
+
+Download Checklist: http://www.comphealth.com/resources/job-search-tips/contract-negotiation-checklist-8-factors-to-consider/?source=et-%%emailname_%%-%%jobid%%
+
+Questions? Email our %%resident_fellow%% recruiter: kerry.wagner@comphealth.com.
+************************************************
+footer
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

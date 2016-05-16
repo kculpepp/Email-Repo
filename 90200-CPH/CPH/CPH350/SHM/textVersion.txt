@@ -1,0 +1,28 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+We hope to see you at Hospital Medicine 2016 (HM16) in San Diego, March 7-8.
+
+************************************************
+Visit us in booth 712 and enter to win our Cure-the-Burnout package of gift cards for flights, hotels, spa services, and more. Then snack on the free popcorn and pick up the free ear buds while we chat about the job that would be just right for you. And you can find out about:
+
+• Locum tenens and permanent jobs in all U.S. states and territories
+• Recruiters who know how to find the job that fits your skills and lifestyle
+• First-rate recruiting services, which are all free of charge
+
+We look forward to meeting you.
+
+View Jobs in Your Specialty > http://www.comphealth.com/physician/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+CompHealth has been one of America’s leading healthcare staffing firms for over 35 years. Our %%=LOWERCASE([Primary Specialty])=%% recruiters are able to help you get your just-right job because they get to know you. Whether you are looking for something temporary or permanent, CompHealth can find it. 
+
+************************************************
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

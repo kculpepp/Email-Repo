@@ -1,0 +1,24 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add rnnetwork@rnnetworkinfo.com to your address book
+************************************************
+We believe looking for a job should be easy
+
+************************************************
+Find jobs fast on your computer or your smartphone
+
+The technology we use behind the scenes makes your job search very simple. A couple of clicks and the jobs that fit what you're looking for pop into view.
+
+Find My Job: http://www.rnnetwork.com/travel-nursing/?et-source=%%emailname_%%-%%jobid%%  
+
+Or call one of our friendly recruiters and they'll make the job search for you.
+
+************************************************
+866.486.6188
+
+We Respect Your Right to Privacy | http://www.rnnetwork.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe | %%profile_center_url%%
+Search Jobs | http://www.rnnetwork.com/travel-nursing/?source=et-%%emailname_%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

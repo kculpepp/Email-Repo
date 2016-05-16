@@ -1,0 +1,77 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Traveler’s Corner
+The Monthly Newsletter for Traveling Therapists
+%%=Format(Now(), "MMMM yyyy")=%%
+************************************************
+Bulletin Board
+
+
+************************************************
+W-2 Update.
+
+You should have received an email with information on how to access your W-2.  If you did not receive it, or if you have any questions, please contact the national payroll center at 877.222.4272.
+
+We’d love to see the great photos you’ve taken on assignment!
+
+Would you like the chance to have your pictures featured in the CompHealth Newsletter? Simply share your photos with your CompHealth representative, along with a few details of where they were taken, and your photo could appear in an upcoming issue.
+************************************************
+Spotlight
+************************************************
+Michaele D., OT
+
+Currently on her first assignment, Michaele is enjoying her experience in Colorado. Though there were multiple staffing companies to choose from, Michaele decided to work with CompHealth because she felt our recruiters were honest and would support her in her travels.
+
+Speaking of the partnership she has with CompHealth, Michaele says she felt like “a team member right from the start.”
+
+Michaele plans to continue to travel because she wants to explore new areas of the country. She also wants to use it as a way to develop professionally. “I want to gain a better perspective of the areas of OT I would like to further pursue,” she says.
+
+According to Michaele, one of the benefits of travel is meeting a variety of new people. When she’s not working, Michaele loves to go dancing. She also makes time for hiking, jewelry making and all kinds of outdoor activities.
+
+What’s the secret to a fulfilling travel assignment? Based on her experiences so far, Michaele says you just need to be open to new adventures.
+
+************************************************
+Featured Job Locations
+
+We've recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
+
+Albuquerque, NM
+
+Wearing their best Stetsons, gentlemen ranchers still stroll the streets of Albuquerque, one of the most colorful cities in the United States. It’s a perfect place to spend time under the turquoise skies of New Mexico that were made famous by American artist Georgia O’Keeffe.
+
+(SUBHEAD)
+Santa Barbara, CA
+
+Living between the Pacific Ocean and the picturesque Santa Ynez Mountains, Santa Barbara residents are used to being between a rock and a beach place. The weather in Santa Barbara is Mediterranean-style, and the area is often referred to as the “American Riviera.” While there is some local nightlife, a short drive along the Pacific Coast will place you in the heart of Los Angeles.
+
+(SUBHEAD)
+Dalton, GA
+
+Located in the foothills of Georgia’s Blue Ridge Mountains, Dalton is the kind of place where award-winning restaurants are located a stone’s throw from Civil War memorials. This fusion of past and present is one of the main reasons Dalton remains so popular with locals and tourists alike.
+
+Click to view all jobs: 
+http://www.comphealth.com/therapy?source=et-%%emailname_%%-%%jobid%% 
+************************************************
+Therapy in the News
+
+Brain injury research validates new assessment tool.
+
+New research has revealed four distinct patterns of symptoms that occur after traumatic brain injury in military service members. This is crucial because TBI is a major concern for the military, with more than 294,000 individuals affected between 2000 and 2013.
+
+According to experts, the research also validates a new questionnaire that is used to assess an individual’s health-related quality of life after TBI. This tool evaluates 20 subscales in the areas of physical and emotional health, cognition and social participation.
+
+You can get the full story by following the link below:
+
+http://blog.todayinpt.com/four-patterns-military-tbi?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+800.634.1077
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

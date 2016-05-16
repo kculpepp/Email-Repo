@@ -1,0 +1,1218 @@
+.svgcolor{fill:#FFFFFF}
+        
+        
+        /* Global */
+    html, body {
+        background-color: transparent;
+        padding: 0;
+        margin: 0;
+        min-height: 100%;
+        min-width: 100%;
+    }
+    html {background:#dadada}
+    body {font-family:'Open Sans', 'Helvetica Neue', Arial;}
+
+    #opus {min-width:100%;min-height:100%;display:inline-block}
+ 
+
+/*Type*/
+    h1,h2,h3,h4,h5,h6,p {margin:0 0 10px}
+
+    h2 {font-size:21px;color:#644d7b}
+    h3 {font-size:19px;}
+    p  {font-size:16px;}
+    label {color:#644d7b;font-weight:500}
+    a, .cta, #update-info {
+        opacity: 1;
+        -webkit-transition: opacity 333ms;
+        -moz-transition: opacity 333ms;
+        -ms-transition: opacity 333ms;
+        -o-transition: opacity 333ms;
+        transition: opacity 333ms;
+    }
+    a:hover, .cta:hover, #update-info:hover {opacity: .7}
+
+/* Phone Icon */
+
+
+/* Navigation Bar */
+    #navigation {background-color: #644D7B;position: relative;z-index: 20;margin:0 0 0px;padding:33px 0 21px 0;
+}
+    #navigation svg {
+    	padding:0;
+    	background-image:none!important;
+    }
+    #navigation #header-logo {
+    max-width: 1020px;
+    width: 100%;
+    margin: auto;
+    padding-left: 25px;
+}
+        #main .selectBox-dropdown .selectBox-label{
+	padding:0px;
+	padding-left:10px;
+}
+/* Main Content */
+    #main {position: relative; z-index: 8}
+    #main p {color:#5a5a5a}
+    #main span[data-param=first-name]{text-transform:capitalize}
+
+/* Form */
+	.row .col-sm-6 {
+	    width: 44.25%;
+	    display: inline-block;
+	    padding-right: 9%;
+	}
+    #update-info {cursor:pointer;text-transform:capitalize}
+    #first-submit, #second-submit {cursor:pointer}
+    #hidden-form {background-color:#fff;padding:23px;}
+    #hidden-form h2 {margin:0 0 10px;    margin-right: 10px;}
+    #hidden-form label {margin-left:12px}
+    #hidden-form, #top-submit {display: none}
+    #content #hidden-form input {
+    	width:95%;
+    	padding:10px 0px;
+    	border:1px solid #a3a3a3;
+    	outline:0!important;
+    	box-shadow:none!important;
+    	color:#000!important;
+    	margin:0 0 10px!important;
+    	background-image:none!important;
+    	padding-left:5%;
+    	}
+    #hidden-form input:focus {border:1px solid #644d7b}
+    #hidden-form select {width:100%;margin:0 0 10px;height:35px;line-height:35px;}
+#hidden-form.landingForm a.selectBox{
+	min-width:95%;
+    padding-right: 5%;
+    border: 1px solid #DADADA;
+	
+}
+
+#hidden-form.landingForm a.selectBox .selectBox-label{
+border: 0px solid #DADADA;
+}
+
+    .cta {
+        color: #fff;
+        padding: 9px 16px 9px 20px;
+        display: inline-block;
+        margin: 5px 0 10px;
+        background-image: url(http://image.comphealthinfo.com/lib/ff041d70776404/m/1/CPH-CTA-Arrow.png);
+        background-repeat: no-repeat;
+        background-position: center right;
+        border-right: 20px solid transparent;
+        opacity: 1;
+        font-size: 16px;
+        -webkit-transition: opacity 333ms;
+        -moz-transition: opacity 333ms;
+        -ms-transition: opacity 333ms;
+        -o-transition: opacity 333ms;
+        transition: opacity 333ms;
+    }
+
+    .cta:hover {
+        color: #fff;
+        text-decoration: none;
+        opacity: .75
+    }
+
+    .cta-orange {
+        border-color: #E56554;
+        background-color: #E56554
+    }
+
+    input {
+        -webkit-transition: all 333ms;
+        -moz-transition: all 333ms;
+        -ms-transition: all 333ms;
+        -o-transition: all 333ms;
+        transition: all 333ms;
+    }
+
+.padding {padding:0 20px 0 23px}
+
+#sub-cta {
+ font-size:16px;
+ color: #e76554;
+text-decoration:none;
+
+}
+#sub-cta:hover{
+    text-decoration:none;
+}
+
+#sub-cta:visited {
+color: #d26456;
+}
+
+/* Thankyou Page */
+    #main.thank #content {
+        background-color:#fff;
+        min-height:100px;
+        padding: 35px 40px 35px;
+        margin-top: 95px
+    }
+
+    #main.thank #content h1 {
+        font-size:14px;color:#666;text-align:center;font-weight:400
+    }
+
+    #main.thank #content h2 {
+        font-size: 18px; text-align: center
+    }
+
+    #main.thank #content p {
+        font-size: 13px; color:#666; text-align: center;font-weight:300
+    }
+
+    .load-icon {
+        display: block;
+        width: 32px;
+        height: 32px;
+        margin: 20px auto 30px;
+    }
+
+    #background-0 {
+        position: absolute;
+        top: 150px;
+        display: block;
+        left:50%;
+        width:197px;
+        height:120px;
+        background-image: url(/siteassets/ajaxlp/img/bg-bubble-thanks.png);
+        background-repeat: no-repeat;
+        background-size: 197px 120px;
+        z-index: 8;
+        margin-left: -98.5px;
+    }
+
+/* Copyright */
+    
+    #footer p {font-size:12px;font-weight:300}
+    #footer span {margin:0 10px}
+
+
+#content  #hidden-form input.failed, #content #hidden-form .failed input, #content #hidden-form select.failed, #content #hidden-form .failed select, #content #hidden-form input.item-failed, #content #hidden-form .item-failed input, #content #hidden-form select.item-failed, #content  #hidden-form .item-failed select{
+	border-color:#f00;
+}
+ .row .col-sm-6.no-right-padding{
+	padding-right: 0%;
+}
+.phoneNumber{
+	display:none;
+}
+
+
+#main {
+    z-index: 21;
+}
+
+#content_wrapper{
+     background-color: #EAEAEA;
+	 padding:40px 0 40px 0;
+}
+#content{
+    min-height: 495px;
+ 
+   }
+
+#hidden-form label{
+font-weight:700;
+display:block;
+margin-bottom:10px;
+}
+
+#right h2 {
+    margin-top: 17px;
+    font-size:16px;
+    color: #87b2d8;
+   }
+
+
+#left-container-1 img{
+    left: 70px;
+
+}
+.cta-orange{
+
+    margin: 13px 0 13px 0;
+}
+
+
+
+#hidden-form {
+   
+    
+}
+#hidden-form h2 {
+    margin: 0 0 20px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+	
+	font-family:Arial, Helvetica, sans-serif;	
+}
+img, a{
+	border:0px;
+	outline:none;
+}
+
+p{
+	font-size:16px;
+	margin:5px 0;
+
+}
+#template-2014 p, #template-2014 h3, #template-2014 div, #template-2014 span{
+	font-family:Arial, Helvetica, sans-serif;
+}
+#template-2014 table {
+width: auto;
+}
+
+
+
+
+#template-2014 #sg-ppcformcopy,#template-2014 a.button,#template-2014 .box h2,#template-2014 h1, #template-2014 p#sg-privacypol{
+	font-family:'Open Sans', sans-serif;
+	font-weight:400;
+}
+#sg-ppcformcopy{
+	/* color:#E76554; */
+	font-size: 14px;
+	/*margin-bottom:5px;*/
+}
+p#sg-privacypol{
+	font-size:11px;
+color:#acacac;
+}
+
+.icon{
+}
+.caduceus{
+	background-image: url('/sites/comphealth/assets/images/ppc_landing_pages/2014/icon-lp-caduceus@2x.png');
+	background-repeat: no-repeat;
+	background-size: 181px 203px;
+	background-position: 100% 10px;
+	width:416px;
+	min-height:194px;
+	padding:30px 200px 0 0;
+
+
+}
+
+.icon-health{
+	background-image: url('/sites/comphealth/lp/PublishingImages/GeneralHealthcareIcon_f.png');
+background-repeat: no-repeat;
+background-position: 435px 20px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+.icon-health p {
+padding:0 10px 0 0;
+}
+
+.icon-map{
+	background-image: url('/sites/comphealth/lp/PublishingImages/map_bubble.png');
+background-repeat: no-repeat;
+background-position: 435px 20px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+
+
+.icon-jobs{
+	background-image: url('/sites/comphealth/lp/PublishingImages/PhysicianJobsBubble_f.png');
+background-repeat: no-repeat;
+background-position: 435px 20px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+
+
+.icon-morejobs{
+	background-image: url('/sites/comphealth/lp/PublishingImages/MorJobs_bubble.png');
+background-repeat: no-repeat;
+background-position: 435px 20px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+
+
+
+.icon-health p {
+padding:0 10px 0 0;
+}
+
+.icon-dr{
+background-image: url('/sites/comphealth/lp/PublishingImages/GeneralPhysicianPANP.png');
+background-repeat: no-repeat;
+background-position: 390px 60px;
+width: 416px;
+min-height: 230px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+.icon-dr p {
+padding:0 10px 0 0;
+}
+
+
+.icon-therapy{
+	background-image: url('/sites/comphealth/lp/PublishingImages/TherapyRecruiterIcon.png');
+background-repeat: no-repeat;
+background-position: 430px 40px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+.icon-therapy p {
+padding:0 10px 0 0;
+}
+
+.icon-therapist{
+	background-image: url('/sites/comphealth/lp/PublishingImages/TherapyRecruiter.png');
+background-repeat: no-repeat;
+background-position: 390px 45px;
+width: 406px;
+min-height: 240px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+.icon-therapist p {
+padding:0 10px 0 0;
+}
+
+.icon-serynge{
+	background-image: url('/sites/comphealth/lp/PublishingImages/CPH402_AAP_needlebubble.png');
+background-repeat: no-repeat;
+background-position: 430px 40px;
+width: 416px;
+min-height: 224px;
+padding: 30px 200px 40px 0;
+float: right;
+margin: 0 0 -30px 0;
+}
+.icon-therapy p {
+padding:0 10px 0 0;
+}
+
+
+
+#header{
+	height:100px;
+	background-color:#644d7b;
+}
+#header img{
+margin-top:32px;
+}
+
+#ContentZone p{
+	color:#5e5e5a;
+	line-height:24px;
+}
+#ContentZone .box p{
+	color:#5e5e5a;
+	line-height: 24px;
+}
+
+
+#content{
+	
+	
+}
+
+.centered{
+	width:980px;
+	margin:0 auto;
+}
+
+
+#formSurround{
+	width:310px;
+	float:left;
+	margin:50px 50px 30px 0;
+}
+#form{
+padding:20px 30px 0 30px;
+background-color:#fff;
+}
+
+#footer > img{
+	display:inline-block;
+	vertical-align:top;
+	margin:50px 115px 0 0;
+}
+#footer table{
+	display:inline-block;
+}
+#footer table table{
+	width:280px;
+	margin:24px 0 60px 20px;
+}
+#footer p{
+	color:#7f8083;
+	margin:0 0 5px 0;
+}
+#footer h4{
+	font-family: Arial, Helvetica, sans-serif;
+float: right;
+line-height: 34px;
+height: 34px;
+display: inline-block;
+font-size: 28px;
+padding: 0 0 0 46px;
+margin: 5px 68px 0 0;
+background-image: url('/sites/comphealth/assets/images/ppc_landing_pages/2014/icon-phone-2x.png');
+background-repeat: no-repeat;
+background-size: 33px 33px;
+background-position: 0% 50%;
+font-weight: normal;
+vertical-align: middle;
+color: #614e7a;
+}
+
+.selectBox-dropdown .selectBox-label {
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;
+line-height: 33px;
+height: 33px;
+font-size: 11px;
+border: 1px solid #DADADA;
+display: inline-block;
+padding: 0 10px;
+}
+
+
+
+
+#template-2014 input[type=text]{
+margin-top: 10px;
+border: 1px solid #fff;
+background-image: url('/sites/comphealth/assets/images/ppc_landing_pages/2014/input-background-251x38.png');
+background-repeat: no-repeat;
+width: 231px;
+padding: 11px 10px;
+font-size: 14px;
+color: #5e5a5a;
+outline: none;
+line-height:16px;
+}
+
+
+#template-2014 input[type=text]::-webkit-input-placeholder,
+#template-2014 textarea::-webkit-input-placeholder{
+color: #ababab;
+}
+#template-2014 input[type=text]:-moz-placeholder,
+#template-2014 textarea:-moz-placeholder{
+color: #ababab;
+opacity:1;
+}
+#template-2014 input[type=text]:-ms-input-placeholder,
+#template-2014 textarea:-ms-input-placeholder{
+color: #ababab;
+}
+
+
+
+
+a.selectBox-dropdown {
+width: 250px;
+border-radius: 0;
+height: 35px;
+background-color: #f0f0f0;
+background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(221, 221, 221) 100%) no-repeat scroll;
+border: 1px solid transparent;
+margin-top: 10px;
+}
+
+
+.selectBox-dropdown .selectBox-label {
+overflow: hidden;
+white-space: nowrap;
+text-overflow: ellipsis;
+line-height: 33px;
+height: 33px;
+font-size: 14px;
+border: 1px solid #DADADA;
+display: inline-block;
+padding: 0 10px;
+width: 100% !IMPORTANT;
+max-width: 193px;
+}
+
+
+
+.selectBox-dropdown .selectBox-arrow {
+background-color: #767676;
+height: 35px;
+width: 35px;
+background-image: url('/siteassets/images/dropdown-arrow-2x.png');
+background-repeat: no-repeat;
+background-position: 50% 50%;
+background-size: 11px 6px;
+}
+.selectBox-dropdown .selectBox-arrow {
+position: absolute;
+top: 0;
+right: 0;
+border-left: solid 1px #BBB;
+}
+
+
+a.button, a.button:visited, a.button:active {
+background-color: #E76555;
+height: 37px;
+padding: 0 32px 0 15px;
+display: inline-block;
+line-height: 37px;
+font-size: 16px;
+color: #fff;
+text-align: center;
+background-image: url('/sites/comphealth/assets/images/ppc_landing_pages/2014/button-arrow-2x.png');
+background-repeat: no-repeat;
+background-size: 21px 12px;
+background-position: 100% 50%;
+text-decoration:none;
+margin: 20px 0 20px 0;
+}
+
+.specialtyMap{
+	display:none;
+}
+
+#template-2014 input.item-failed, a.item-failed, #hidden-form.landingForm a.selectBox.item-failed{
+	border: 1px solid #f00;	
+}
+
+
+
+#containersg a{
+-moz-transition: all 0.2s ease 0s;
+-webkit-transition: all 0.2s ease 0s;
+transition: all 0.2s ease 0s;
+}
+
+a.button:hover{
+opacity:.8;
+}
+
+.ms-PartSpacingVertical {
+display: none;
+}
+
+
+
+.copyright {
+display:none;
+position: absolute;
+top: 780px;
+color: #999;
+}
+#lpCopyright a{
+	color:#999;
+}
+#lpCopyright a:hover{
+	color:#333;
+}
+
+.form-title {
+	font-weight:bold;
+	line-height: 2;
+}
+.footer #copyright  {
+	display:none;
+}
+
+.selectBox-dropdown-menu li{
+	font-size:14px;	
+}	
+
+#footer h4 img{
+	display:none !important;
+}
+
+
+#woman table h1{
+	margin-top:0;
+	padding-top:27px;
+}
+
+
+
+
+
+
+
+
+#footer > a > img {
+    display: inline-block;
+    vertical-align: top;
+    margin: 50px 115px 0 0;
+}
+
+#form_submit_button { 
+width: 40%; padding: 0 14px 0 0; line-height: 41px; }
+
+
+
+#right p{
+padding:0;
+color: #5e5e5e;
+font-size: 16px;
+line-height:24px;
+}
+
+
+
+
+
+#cta_search_jobs {
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-size:14.5px;
+	color:#e56554;
+	font-weight:normal;
+	text-decoration:none;
+        margin-top:390px;
+	display:block;
+}
+
+#right h1 {
+    padding-top: 13px;
+    color:#694e7a;
+	font-size:22px;
+}
+
+
+p.fine-print{
+	display:block;
+}
+
+
+
+
+
+#hidden-form h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    color: #676767;
+}
+
+#hidden-form p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.box p {
+    font-size: 16px;
+    color: #676767;
+    line-height: 24px;
+}
+
+
+.box{
+	background-color:#fff;
+	padding:22px 10px 22px 16px; 
+	position:relative;
+}
+.box h2{
+	margin-top:17px;
+	color:#87b2d8;
+}
+.box img{
+	display:block;
+	margin:-40px auto 0 auto;
+}
+
+
+
+
+
+
+
+
+.contentWrapper{
+	background-repeat: no-repeat;
+}
+
+#lpCopyright{
+	width:250px;
+	color: #999;
+	font-size:8pt;
+}
+
+
+#main #footer .ms-webpart-zone p{
+ font-size:16px;   
+}
+#main #footer .ms-webpart-zone a{
+	color:#7f8083;
+}
+
+
+/* Media Queries */
+
+
+/* start large screen */
+@media (min-width: 1001px) {
+    
+    #lp-phone {display:none;}    
+
+div#rightFoot {
+    float: right;
+    position: relative;
+    bottom: 75px;
+}
+
+.mobWidth {
+	    width: 67%;
+    margin-left: 259px;
+}		
+
+#sailboat {
+	background-position: -10px -33px;
+    background-image: url(/siteassets/images/sailBubble.v2.png);
+}
+    
+    #lady {
+         background-position: -10px -33px;
+    background-image: url(/SiteAssets/images/cph356-lp-background.png);
+    }    
+    
+    #padder {margin-right: 249px}
+
+.box {
+    width: 167px;
+    height: 287px !important;
+    float: left;
+    margin: 67px 5px 0 ;
+}
+
+#talkBubble > div.mobWidth > p {
+    padding-top: 66px;
+    width: 78%;
+}
+
+
+#talkBubble {	
+	background-image: url(/siteassets/images/nejm-february.v2.png);
+    position: absolute;
+    top: -40px;
+		}
+    
+    #talkBubble-ob {	
+	background-image: url(/siteassets/images/cph388-obgyn-march2016.png);
+    position: absolute;
+    top: -40px;
+		}
+#right .contentWrapper  .para80{
+	width:80%;
+}
+#right #sailboat > p, #right #sailboat > h1{
+	width:60%;
+}
+#right .contentWrapper   .para40{
+	width:40%;
+}
+
+   
+	
+	.contentWrapper {
+	padding:0;
+    
+}
+	
+
+		#left {
+		float:left;
+		    width: 310px;
+		    margin-right: 50px;
+		}
+		#right {
+		    float: right;
+		    width: 610px;
+		}
+
+        input {background-color:rgba(255,255,255,.5)}
+        input:hover, input:focus {background-color:rgba(255,255,255,1)}
+        
+
+        #hidden-form {
+            background: -moz-linear-gradient(-45deg,  rgba(255,255,255,1) 0%, rgba(255,255,255,1) 1%, rgba(255,255,255,0.75) 100%);
+            background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(1%,rgba(255,255,255,1)), color-stop(100%,rgba(255,255,255,0.75)));
+            background: -webkit-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0.75) 100%);
+            background: -o-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0.75) 100%);
+            background: -ms-linear-gradient(-45deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0.75) 100%);
+            background: linear-gradient(135deg,  rgba(255,255,255,1) 0%,rgba(255,255,255,1) 1%,rgba(255,255,255,0.75) 100%);
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#bfffffff',GradientType=1 );
+            
+        }
+
+
+        #navigation {margin:0 0 0px}
+		
+        #content {min-height:450px;margin-top:0px;margin: auto;max-width: 970px;width: auto;position:relative;}
+        
+       
+        #main #footer{
+	margin: auto;
+    max-width: 990px;
+    width: auto;
+    position: relative;
+    padding: 50px 0 0 0;
+	height:200px;
+}
+
+
+
+
+		#main #footer p {margin-bottom: 0;}
+        #update-info {margin-top:15px;color:#644D7B;font-size:16px;font-weight:500}
+
+        
+       
+		#footer {padding:50px 75px 0 0;text-align:right}
+
+#footer span, #footer a{
+	display:inline;
+}
+
+
+       
+
+
+	
+	
+#person{
+display:none;    
+}
+#navigation #header-logo{
+width:100%;
+}
+.container#main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row .col-sm-6{
+    width: 44.25%;
+    display: inline-block;
+}
+
+
+#lp-phone-icon{
+    right: 20px;
+    left:inherit;
+    }
+
+	
+	
+	#showFormBtn{
+		display:none;
+	}
+	
+#lpCopyright{
+	margin-top:50px;
+	margin-left:25px;
+}
+
+#footer .ms-webpart-zone{
+ width:620px;
+ float:right;
+ 
+}
+
+#footer .ms-webpart-zone p, h3{
+  text-align:left;
+  width:100%;
+}
+
+#footer .ms-webpart-zone h3{
+    width:80%;
+}
+
+
+h3#footer-phone-number{
+	margin: 0px 78px 0 0;
+		float:none;
+	}
+	
+	#lp-phone-icon {
+ display:none;
+}
+
+
+
+#lp-phone {display:none}	
+	
+}
+
+/* end large screen */
+	
+	
+/* start small screen */
+		
+	
+    @media (max-width:1000px) {	
+        
+        #leftFoot   {
+            
+            margin:0 auto !important;
+        }
+        
+        #rightFoot   {
+            padding-top: 20px;
+            margin:0 auto !important;
+            float:none !important;
+        }
+        
+    #WebPartWPQ4 > div.ms-rtestate-field > a {
+    position: absolute;
+    top: -73px;
+    right: 40px;
+}
+    
+    #footer {
+    padding: 45px 0 0 0;
+    text-align: center;
+}
+
+#main #footer div {
+margin-bottom:55px;
+}
+	
+	#lp-phone-icon {
+    width: 33px;
+    height: 32px;
+    display: block;
+    position: absolute;
+    top: -65px;
+    left: 1070px;
+    z-index: 100;
+    background-image: url('/siteassets/images/lpPhoneBubble.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+	
+	.mobWidth {
+	width:100%;
+	margin:0;
+	}
+	
+	#talkbubble {	
+	background-image: none;
+		}
+        
+        #talkbubble-ob {
+            background-image: none;
+        }
+		
+#right .con
+	
+	 #main #footer{
+	
+    
+    width: inherit;
+    padding: 50px 0 0 0;
+	
+}
+	
+	
+	#lpCopyright{
+	margin-top:10px;
+	margin-left:55px;
+}
+	
+	
+	#showFormBtn{
+		display:block;
+	}
+	
+	
+		.contentWrapper {
+	padding:0 5%;
+    
+}
+
+#sailboat{
+background:none;
+}
+        
+#lady {
+            background-image:none;
+        }
+        
+        #padder {margin:none;}
+
+#right .contentWrapper  p#para80{
+	width:100%;
+}
+	
+	.box{
+		width:inherit;
+		margin: 0;
+		min-height:0;
+		float:none;
+		margin:30px 0 0 0;
+	}
+	
+        #footer{text-align: center;padding:100px 25px}    
+    
+    .container#main{
+		margin-left:5%;
+		margin-right:5%;
+	}
+
+        
+     
+	#left #left-container-1 {
+		    min-height: 700px;
+		    margin-left:-30%;
+		    margin-right:-30%;
+		    position:relative;
+
+		}
+
+        #background-3 {display:none;}
+        #bubble-holder {height:384px;top:180px;left:-20px;width:60%}
+    	
+	#left {
+		float:none;
+		    width: 100%;
+		    margin-right: 50px;
+		}
+		#right {
+		    float: none;
+		    width: 100%;
+		}
+
+
+
+#navigation #header-logo{
+width:inherit;
+}
+.container#main {
+    margin-left: 0%;
+    margin-right: 0%;
+}
+#hidden-form {
+    margin: 5%;
+}
+.row .col-sm-6{
+    width: 100%;
+    display: block;
+}
+#content #hidden-form input{
+width:98%;
+padding-left:2%;
+}
+#content{
+    
+    background-image: none;
+    
+}
+    
+    #footer{padding:45px 0 0 0;text-align:center;}
+
+#footer a{
+	display:block;
+}
+
+	#footer span.pipe{
+	display:none;
+}
+#main #footer div{
+    margin-bottom:10px;
+}
+	#footer .ms-webpart-zone{
+ width:100%;
+ float:none;
+ text-align:center;
+ 
+}
+	
+	h3#footer-phone-number{
+		margin:10px auto;
+		float:none;
+	}
+	
+	
+	#footer #footer-logo {
+   
+    float: none;
+    margin: 10px auto;
+}
+        
+#sub-cta {
+    position: relative;
+    top: 20px;
+        }	
+	
+	}
+
+
+	/* end small screen */
+	
+	
+
+
+.loader {
+    background-image: url('/siteassets/ajaxlp/img/ajax-loader.gif');
+    background-repeat: no-repeat;
+    width: 32px;
+    height: 50px;
+    position: relative;
+    z-index: 100;
+    margin: -8px auto -40px auto;
+    background-position: 0 20px;
+    display:none;
+}
+

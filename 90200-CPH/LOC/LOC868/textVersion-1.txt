@@ -1,0 +1,22 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+The easiest way to earn extra income.
+
+************************************************
+Your %%Primary Specialty%% job can be demanding. Fortunately, earning extra money with locum tenens doesn’t have to be. CompHealth will cover your malpractice insurance, travel expenses, and any necessary lodging. We’ll even coordinate your hospital privileges, credentialing, and licensing needs.
+
+It’s the simplest, most rewarding way to earn extra income.
+
+Search current %%Primary Specialty%% locum tenens opportunities > http://www.comphealth.com/ppclp/pages/loc868-lp.aspx?source=et-%%emailname_%%
+
+************************************************
+866.418.7288
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
