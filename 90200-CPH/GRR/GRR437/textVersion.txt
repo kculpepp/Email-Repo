@@ -5,14 +5,13 @@ To make sure you receive our emails, please add comphealth@comphealthinfo.com to
 Traveler’s Corner
 The Monthly Newsletter for Traveling Therapists
 %%=Format(Now(), "MMMM yyyy")=%%
+
 ************************************************
 Bulletin Board
-
-
 ************************************************
-W-2 Update.
+We'll be closed Memorial Day.
 
-You should have received an email with information on how to access your W-2.  If you did not receive it, or if you have any questions, please contact the national payroll center at 877.222.4272.
+Our offices will be closed on Monday, May 30. Because it’s a payroll week, please submit your timesheet as soon as possible following your shift, so we can ensure you’re paid on time.
 
 We’d love to see the great photos you’ve taken on assignment!
 
@@ -20,51 +19,51 @@ Would you like the chance to have your pictures featured in the CompHealth Newsl
 ************************************************
 Spotlight
 ************************************************
-Michaele D., OT
+Jennifer T., PT
 
-Currently on her first assignment, Michaele is enjoying her experience in Colorado. Though there were multiple staffing companies to choose from, Michaele decided to work with CompHealth because she felt our recruiters were honest and would support her in her travels.
+Jennifer has been traveling with CompHealth for four years now. It’s been an easy choice, according to her, because the CompHealth support team has always made her travel experiences easy.
 
-Speaking of the partnership she has with CompHealth, Michaele says she felt like “a team member right from the start.”
+“They take care of your licensing for you and are always there to answer any questions throughout your contract,” she says. “I also really appreciate the quality contracts they have.”
 
-Michaele plans to continue to travel because she wants to explore new areas of the country. She also wants to use it as a way to develop professionally. “I want to gain a better perspective of the areas of OT I would like to further pursue,” she says.
+For an adventure-lover like Jennifer, travel assignments can be a match made in heaven. She’s hiked the mountains of Colorado, explored Glacier National Park and Yellowstone National Park, visited the Grand Canyon, and trekked along the coast of Maine, to name a few.
 
-According to Michaele, one of the benefits of travel is meeting a variety of new people. When she’s not working, Michaele loves to go dancing. She also makes time for hiking, jewelry making and all kinds of outdoor activities.
+Jennifer’s assignment in Montrose, Colorado, has been her favorite so far. She did a mix of acute care and outpatient, and loved the staff she worked with. Because of the fun she had on the job, the days actually went by quickly. And whenever she had free time, she took full advantage of her surroundings. Highlights included a trip to the desert town of Moab, summiting numerous peaks, and skiing at Telluride.
 
-What’s the secret to a fulfilling travel assignment? Based on her experiences so far, Michaele says you just need to be open to new adventures.
+Of course, it’s not only about the outdoor experiences. Jennifer has discovered there are also lots of opportunities for professional growth.
+
+“Traveling enables me to learn many new skills from different PT disciplines as well as explore new areas and meet new people,” she says.
 
 ************************************************
 Featured Job Locations
 
 We've recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
 
-Albuquerque, NM
+Lynchburg, VA
 
-Wearing their best Stetsons, gentlemen ranchers still stroll the streets of Albuquerque, one of the most colorful cities in the United States. It’s a perfect place to spend time under the turquoise skies of New Mexico that were made famous by American artist Georgia O’Keeffe.
+History is on full display in beautiful Lynchburg. And no visit is complete without exploring the city's historic downtown district. You'll find unique shops, historic sites, arts and culture venues, delicious restaurants, and more. It's easy to see why so many people consider it a must-see destination.
 
-(SUBHEAD)
 Santa Barbara, CA
 
-Living between the Pacific Ocean and the picturesque Santa Ynez Mountains, Santa Barbara residents are used to being between a rock and a beach place. The weather in Santa Barbara is Mediterranean-style, and the area is often referred to as the “American Riviera.” While there is some local nightlife, a short drive along the Pacific Coast will place you in the heart of Los Angeles.
+This gorgeous city offers visitors a relaxed coastal way of life. Sometimes referred to as "The American Riviera," Santa Barbara's golden hillsides cascade down into the ocean. This is where wine country, lush gardens, and festivities welcome you at every turn.
 
-(SUBHEAD)
-Dalton, GA
+Rumford, ME
 
-Located in the foothills of Georgia’s Blue Ridge Mountains, Dalton is the kind of place where award-winning restaurants are located a stone’s throw from Civil War memorials. This fusion of past and present is one of the main reasons Dalton remains so popular with locals and tourists alike.
+From skiing Black Mountain to having access to hiking trails galore, Rumford is paradise for those who love to spend time in nature. There are plenty of arts and entertainment options too, and just about any museum you can conjure up: art, history, children's, railway, and more.
 
 Click to view all jobs: 
 http://www.comphealth.com/therapy?source=et-%%emailname_%%-%%jobid%% 
 ************************************************
 Therapy in the News
 
-Brain injury research validates new assessment tool.
+Kalamazoo shooting victim leaves rehab.
 
-New research has revealed four distinct patterns of symptoms that occur after traumatic brain injury in military service members. This is crucial because TBI is a major concern for the military, with more than 294,000 individuals affected between 2000 and 2013.
+On February 20, a mass shooting in Kalamazoo left six people dead and two wounded. One of the injured was 14-year-old Abigail Kopf. She sustained a severe head injury and was initially presumed dead at the scene.
 
-According to experts, the research also validates a new questionnaire that is used to assess an individual’s health-related quality of life after TBI. This tool evaluates 20 subscales in the areas of physical and emotional health, cognition and social participation.
+Through Abigail's determination and the support of an incredible staff at Mary Free Bed Rehabilitation Hospital, she is now able to walk, talk, and "almost run down the halls."
 
-You can get the full story by following the link below:
+This is truly an inspirational account of how therapy can help transform lives in the wake of tragedy. You can get the full story by clicking here. 
 
-http://blog.todayinpt.com/four-patterns-military-tbi?source=et-%%emailname_%%-%%jobid%%
+www.detroitnews.com/story/news/local/michigan/2016/04/20/kalamazoo-shootingvictim-graduates-physical-therapy/83292290?source=et-%%emailname_%%-%%jobid%%
 
 ************************************************
 800.634.1077

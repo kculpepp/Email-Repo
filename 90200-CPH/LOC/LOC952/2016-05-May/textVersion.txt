@@ -1,0 +1,42 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Connect
+NEWS, TIPS, AND TRENDS: MAY 2016.
+
+************************************************ 
+Survey results: What doctors think of the ACA.
+
+Since its implementation in 2010, many people have spoken for and against the Affordable Care Act. We decided to ask doctors.
+
+Read the Results > http://www.comphealth.com/resources/healthcare-trends/aca-survey/?source=et-%%emailname_%%
+
+************************************************
+Video: 55 answers to locum tenens questions.
+
+If you have questions about locum tenens, you’re not alone. We’ve compiled 55 short videos answering common, and uncommon, questions about locum tenens.
+
+Watch Now > https://www.youtube.com/playlist?list=PLGGdyhMzV2RDllrdSzbiETgbMTjFfzKYA&source=et-%%emailname_%%
+
+************************************************ 
+Make a great impression at your next interview.
+
+ Your CV is impeccable, your credentials are unimpeachable, the only thing left to do is knock them dead during the interview. We’ll show you how in one quick click.
+
+ Tips to Ace the Interview >
+
+ http://www.comphealth.com/resources/career-resources-2/guide-to-creating-a-great-first-impression-at-your-next-interview/?source=et-%%emailname_%% 
+
+ ************************************************ 
+Ready to find a new opportunity? Check out our latest jobs > http://www.comphealth.com/physician?source=et-%%emailname_%%
+
+************************************************ 
+866.746.0025
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
