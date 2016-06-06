@@ -1,0 +1,37 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Thank you for your interest in CompHealth. 
+
+************************************************
+As you plan the direction of your career, we’re excited to show you why we’re the best people to help you find your just-right job.
+
+Over the next couple weeks, we’ll send you a few short emails to introduce how we help you in your job search. Welcome to CompHealth. We look forward to working with you. 
+
+************************************************ 
+Six reasons to work with CompHealth.
+
+************************************************
+Ready to take your career to new heights? Working with CompHealth offers many great benefits.
+
+http://www.comphealth.com/locum-tenens/reasons-to-choose-comphealth?source=et-%%emailname_%%
+
+************************************************ 
+Learn how locum tenens works.
+
+************************************************
+Locum tenens is an exciting way to work. See how it can fit into your career and lifestyle.
+
+Watch Video > http://www.comphealth.com/resources/job-search-tips/work-locum-tenens-short-video/?source=et-%%emailname_%% 
+
+************************************************
+866.588.8405
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

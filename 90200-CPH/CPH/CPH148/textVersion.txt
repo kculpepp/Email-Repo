@@ -1,0 +1,40 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Work where you want. 
+Love what you do.
+
+View All Jobs > http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%/?source=et-%%emailname_%%-%%jobid%%-vaj
+
+************************************************
+West:
+https://l.comphealth.com/inquire/a/148/%%Site Specialty%%?selected_region=westcoast&firstName=%%First Name%%&lastName=%%Last Name%%&userEmail=%%emailaddr%%&userPhone=%%Phone Number%%&state=Alaska,California,Colorado,Hawaii,Idaho,Montana,Nevada,Oregon,Utah,Washington,Wyoming&headline=western&source=et-%%emailname_%%-%%jobid%%-w 
+
+Midwest:
+https://l.comphealth.com/inquire/a/148/%%Site Specialty%%?selected_region=midwest&firstName=%%First Name%%&lastName=%%Last Name%%&userEmail=%%emailaddr%%&userPhone=%%Phone Number%%&state=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Missouri,Nebraska,North+Dakota,Ohio,South+Dakota,Wisconsin&headline=midwestern&source=et-%%emailname_%%-%%jobid%%-mw  
+
+Southwest:
+https://l.comphealth.com/inquire/a/148/%%Site Specialty%%?selected_region=southwest&firstName=%%First Name%%&lastName=%%Last Name%%&userEmail=%%emailaddr%%&userPhone=%%Phone Number%%&state=Arizona,New+Mexico,Oklahoma,Texas&headline=southwestern&source=et-%%emailname_%%-%%jobid%%-sw 
+
+East:
+https://l.comphealth.com/inquire/a/148/%%Site Specialty%%?selected_region=eastcoast&firstName=%%First Name%%&lastName=%%Last Name%%&userEmail=%%emailaddr%%&userPhone=%%Phone Number%%&state=Connecticut,Delaware,District+of+Columbia,Maine,Maryland,Massachusetts,New+Hampshire,New+Jersey,New+York,Pennsylvania,Rhode+Island,Vermont&headline=eastern;source=et-%%emailname_%%-%%jobid%%-e 
+
+Southeast:
+https://l.comphealth.com/inquire/a/148/%%Site Specialty%%?selected_region=southeast&firstName=%%First Name%%&lastName=%%Last Name%%&userEmail=%%emailaddr%%&userPhone=%%Phone Number%%&state=Alabama,Arkansas,Florida,Georgia,Kentucky,Louisiana,Mississippi,North+Carolina,South+Carolina,Tennessee,Virginia,West+Virginia&headline=sooutheastern&source=et-%%emailname_%%-%%jobid%%-se 
+
+Let’s find your just-right %%Primary Specialty%% job. Feel free to share your needs and your wants. Knowing them is how our recruiters consistently find a job with your name on it.
+
+We also handle the details like hospital credentialing and travel arrangements, so you can focus on enjoying your job and the location you’ve chosen.
+
+View All Jobs > http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%/?source=et-%%emailname_%%-%%jobid%%-vaj
+
+************************************************
+866.588.5996
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%

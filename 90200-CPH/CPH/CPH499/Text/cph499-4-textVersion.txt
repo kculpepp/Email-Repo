@@ -1,0 +1,31 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Coming soon to your inbox.
+
+************************************************
+Over the last couple weeks we’ve appreciated getting a chance to introduce ourselves to you and showing you how we can help make your job search easier. 
+
+You may be wondering what to expect moving forward. We have a few emails you’ll see each month to keep you at the forefront of opportunities.
+
+• Our biweekly job alert email will keep you up to date on jobs in your specialty
+• A monthly provider newsletter covers topics important to career, jobs, and lifestyle
+• Occasionally we’ll send content relevant to your specialty
+• You’ll also receive emails directly from recruiters about specific opportunities
+
+To ensure you receive our emails, please add us to your address book.
+
+Interested in exploring your options?
+
+View Open Jobs > http://www.comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%%
+************************************************
+866.588.8405
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

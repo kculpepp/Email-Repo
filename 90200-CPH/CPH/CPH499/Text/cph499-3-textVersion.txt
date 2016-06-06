@@ -1,0 +1,42 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Have questions about searching for a job? We have answers.
+
+************************************************
+In today’s landscape, changing jobs is a fact of life. Long gone are the days when professionals retire after 30 years with the same company.
+
+Whether this is your first job search or your most recent, our Resources (http://www.comphealth.com/resources/for-job-seekers?source=et-%%emailname_%%-%%jobid%%) section provides you with relevant information to help you along your journey.
+
+From Job Search Tips (http://www.comphealth.com/resources/category/job-search-tips/?source=et-%%emailname_%%-%%jobid%%) to Interview Tips (http://www.comphealth.com/resources/category/interview-tips-2?source=et-%%emailname_%%-%%jobid%%), you'll get great articls, videos, and stories from other doctors designed to help you in your job search.
+
+View More Resources > http://www.comphealth.com/resources/for-job-seekers/?source=et-%%emailname_%%-%%jobid%%
+
+************************************************ 
+What can a recruiter do for you?
+
+CompHealth recruiters are passionate about your career. Watch this short video to learn how they can help.
+
+Watch Video > https://www.youtube.com/watch?v=Gbr3OzGp-gU&source=et-%%emailname_%%-%%jobid%%
+
+************************************************ 
+Get social with us
+
+Connect with us on your favorite social networks to get the latest news and updates.
+
+Facebook:  https://www.facebook.com/comphealth/?source=et-%%emailname_%%-%%jobid%% 
+Instagram: https://www.instagram.com/comphealth/?source=et-%%emailname_%%-%%jobid%% 
+Twitter:   https://twitter.com/comphealth?source=et-%%emailname_%%-%%jobid%% 
+LinkedIn:  https://www.linkedin.com/company/comphealth?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+866.588.8405
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
