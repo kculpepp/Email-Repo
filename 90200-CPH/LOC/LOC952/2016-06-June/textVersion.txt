@@ -1,0 +1,41 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Connect
+NEWS, TIPS, AND TRENDS: JUNE 2016.
+
+************************************************ 
+Top 7 financial errors doctors make (and how to avoid them).
+
+Dr. Jim Dahle, MD, FACEP, founder of WhiteCoatInvestor.com, discusses seven tips doctors can use to achieve financial success.
+
+Read Now > http://www.comphealth.com/resources/career-resources-2/top-7-financial-errors-doctors-make-and-how-to-avoid-them/?source=et-%%emailname_%%-%%jobid%% 
+
+************************************************
+Use locum tenens to help land a permanent job.
+
+A great way to try a practice before committing to a long-term position is to use a locum tenens assignment.
+Learn More > http://www.comphealth.com/resources/locum-tenens/how-to-use-a-temporary-assignment-to-land-a-permanent-job/?source=et-%%emailname_%%-%%jobid%% 
+
+************************************************ 
+Eleven TV docs who give us heart palpitations.
+
+Who’s your favorite TV doctor? We definitely have ours. We found eleven doctors whose exam rooms we wouldn’t mind sitting in.
+
+See the List >
+
+http://www.comphealth.com/resources/physician-2/11-tv-docs-that-give-us-heart-palpitations/?source=et-%%emailname_%%-%%jobid%%
+
+ ************************************************ 
+Ready to find a new opportunity? Check out our latest jobs > http://www.comphealth.com/physician?source=et-%%emailname_%%
+
+************************************************ 
+866.746.0025
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

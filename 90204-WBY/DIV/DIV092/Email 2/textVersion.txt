@@ -1,0 +1,31 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Dear %%First Name%%,
+
+As we push toward implementing an electronic time entry and approval process, our first step is instituting a weekly time capture and approval process.
+
+Beginning this week, you will start seeing requests for approving work records. It is our hope that this change will reduce timekeeping errors, thereby helping to improve the accuracy of our invoices.
+
+Please note that while you will be approving work records weekly, you will continue to receive biweekly invoices for time worked. Each invoice will continue to reflect two weeks worth of time worked.
+
+We’re excited to be offering this as a benefit to you and our providers.
+
+Your participation is greatly appreciated. If you have any questions, please contact our payroll team at 866.588.7585.
+
+I am also happy to help answer any concerns you might have.
+
+>>Rep<<
+>>Rep Email<<
+>>Rep Phone<<
+
+************************************************
+866.588.7585
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

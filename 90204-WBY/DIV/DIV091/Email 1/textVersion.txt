@@ -1,0 +1,35 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Dr. %%Last_Name%%,
+
+As you may have heard, we are implementing a new weekly pay process that will be starting soon.
+
+This change is the first step in moving toward an electronic time entry and approval process.
+
+Beginning July 11, you will start tracking hours worked and submitting work records weekly. Your first weekly pay check will then be distributed July 22. 
+
+Your submission time and day to receive weekly pay is Tuesday at 4pm eastern.
+
+We are instituting this change in response to feedback we’ve received. We are excited about it because it will help you get paid faster while helping simplify the process and reduce errors. 
+
+If you haven’t already, be sure to enroll in direct deposit so you can get paid even faster. 
+
+Have questions? Feel free to contact our payroll team at 866.588.7585.
+
+I am also happy to help answer any concerns you might have.
+
+%%Rep%%
+%%Rep Email%%
+%%Rep Phone%%
+
+************************************************
+866.588.7585
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

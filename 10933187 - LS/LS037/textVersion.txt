@@ -1,0 +1,30 @@
+
+
+To make sure you receive our emails, please add locumstory@locumstoryinfo.com to your address book
+************************************************
+Take your earning potential out of the waiting room
+
+************************************************
+Dr. John Thieszen was in a predicament. He was an established hospitalist serving in the Air Force and needed some extra income. He wasn’t sure what to do. Then he discovered a way to supplement his income while allowing him to travel and gain additional skills. A friend introduced Dr. Thieszen to locum tenens work and he hasn’t looked back since.
+
+View Dr. Thieszen's Story > http://www.comphealth.com/resources/provider-stories/my-locum-tenens-experience-using-part-time-assignments-to-improve-your-full-time-job/?source=et-%%emailname_%%-%%jobid%%
+
+Watch Video > https://www.youtube.com/watch?v=blBIxq64eTc&source=et-%%emailname_%%-%%jobid%%
+
+Visit locumstory.com (http://locumstory.com?source=et-%%emailname_%%-%%jobid%%)
+
+************************************************ 
+Explore some additional stories about locum tenens.
+
+Locumstory Facebook Page > https://www.facebook.com/locumstory/?fref=ts&source=et-%%emailname_%%-%%jobid%% 
+
+Why Locum Tenens Works > http://www.thedoctorblog.com/locum-tenens-at-any-age/?source=et-%%emailname_%%-%%jobid%%
+
+10 Tips for Traveling Physicians > http://getbetterhealth.com/?s=locum+tenens&source=et-%%emailname_%%-%%jobid%%  
+
+************************************************
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

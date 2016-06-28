@@ -8,62 +8,80 @@ The Monthly Newsletter for Traveling Therapists
 
 ************************************************
 Bulletin Board
-************************************************
-We'll be closed Memorial Day.
+************************************************ 
+You’ll be paid weekly starting in July.
 
-Our offices will be closed on Monday, May 30. Because it’s a payroll week, please submit your timesheet as soon as possible following your shift, so we can ensure you’re paid on time.
+As part of our efforts to improve your experience working with CompHealth, we’re introducing weekly pay for all our providers the week of July 11. This means you will get paid even faster.
 
-We’d love to see the great photos you’ve taken on assignment!
+We are implementing this change based on your feedback, and it is part of our commitment to our core value of Continuous Improvement. You’ll receive more information from us via email and through your reps in the coming weeks.
 
-Would you like the chance to have your pictures featured in the CompHealth Newsletter? Simply share your photos with your CompHealth representative, along with a few details of where they were taken, and your photo could appear in an upcoming issue.
+Continuing education.
+
+CompHealth encourages ongoing education and career development. The following association websites are useful resources for continuing education courses:
+
+Occupational Therapy
+http://www.aota.org?source=et-%%emailname_%%-%%jobid%%
+http://www.occupationaltherapy.com?source=et-%%emailname_%%-%%jobid%%
+http://www.advanceweb.com?source=et-%%emailname_%%-%%jobid%%
+
+Physical Therapy
+http://www.apta.org?source=et-%%emailname_%%-%%jobid%%
+http://www.physicaltherapy.com?source=et-%%emailname_%%-%%jobid%%
+http://www.advanceweb.com?source=et-%%emailname_%%-%%jobid%%
+
+Speech Language Therapy
+http://www.asha.org?source=et-%%emailname_%%-%%jobid%%
+http://www.advanceweb.com?source=et-%%emailname_%%-%%jobid%%
+http://www.speechpathology.com?source=et-%%emailname_%%-%%jobid%%
+
 ************************************************
 Spotlight
 ************************************************
-Jennifer T., PT
+Anna B., OT
 
-Jennifer has been traveling with CompHealth for four years now. It’s been an easy choice, according to her, because the CompHealth support team has always made her travel experiences easy.
+Anna started traveling in the spring of 2013. Her assignments have taken her from coast to coast, with stops in North Carolina, West Virginia, Illinois, New Mexico, and Washington.
 
-“They take care of your licensing for you and are always there to answer any questions throughout your contract,” she says. “I also really appreciate the quality contracts they have.”
+“Travel to all parts of the country to take advantage of all it has to offer,” recommends Anna. “I would also advise other travelers to explore different settings!”
 
-For an adventure-lover like Jennifer, travel assignments can be a match made in heaven. She’s hiked the mountains of Colorado, explored Glacier National Park and Yellowstone National Park, visited the Grand Canyon, and trekked along the coast of Maine, to name a few.
+Anna’s favorite assignment so far is the one she’s currently on in Spanaway, Washington. The school-based job has allowed her to work with a diverse population, be part of an excellent interdisciplinary team, and increase her competency in the school setting. The location also gives her access to scenic beaches, mountains, and state parks.
 
-Jennifer’s assignment in Montrose, Colorado, has been her favorite so far. She did a mix of acute care and outpatient, and loved the staff she worked with. Because of the fun she had on the job, the days actually went by quickly. And whenever she had free time, she took full advantage of her surroundings. Highlights included a trip to the desert town of Moab, summiting numerous peaks, and skiing at Telluride.
+One constant for Anna has been the support she’s received. She reports that she’s had amazing coworkers in every location. And the assistance of CompHealth has helped all of her experiences go well.
 
-Of course, it’s not only about the outdoor experiences. Jennifer has discovered there are also lots of opportunities for professional growth.
+“CompHealth was able to offer me jobs in locations that I desired and helped me every step of the way, including licensing, relocation costs, rental cars, and accommodations that exceeded expectations,” says Anna. “CompHealth also offered unlimited online CEUs, competitive pay, and excellent communication with my recruiter.”
 
-“Traveling enables me to learn many new skills from different PT disciplines as well as explore new areas and meet new people,” she says.
+Because of these positive experiences, Anna plans to continue taking travel assignments and exploring new parts of the country.
 
 ************************************************
 Featured Job Locations
 
-We've recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
+We’ve recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
 
-Lynchburg, VA
+Ticonderoga, NY
 
-History is on full display in beautiful Lynchburg. And no visit is complete without exploring the city's historic downtown district. You'll find unique shops, historic sites, arts and culture venues, delicious restaurants, and more. It's easy to see why so many people consider it a must-see destination.
+This town’s unique name comes from the Mohawk word for "it is at the junction of two waterways.” Ticonderoga is located at the confluence of Lake George and Lake Champlain in the southeastern corner of Essex County. It’s entirely within the Adirondack Park and offers abundant opportunities for outdoor adventures.
 
-Santa Barbara, CA
+Baltimore, MD
 
-This gorgeous city offers visitors a relaxed coastal way of life. Sometimes referred to as "The American Riviera," Santa Barbara's golden hillsides cascade down into the ocean. This is where wine country, lush gardens, and festivities welcome you at every turn.
+The largest city in Maryland, Baltimore sits along the Patapsco River, an arm of the Chesapeake Bay. It played a key role in events of the American Revolution and boasts 72 designated historic districts. These include Inner Harbor, famous for its shops and museums; Fells Point, which was featured in Sleepless in Seattle; and Little Italy, where you’ll find superb Italian food.
 
-Rumford, ME
+Boise, ID
 
-From skiing Black Mountain to having access to hiking trails galore, Rumford is paradise for those who love to spend time in nature. There are plenty of arts and entertainment options too, and just about any museum you can conjure up: art, history, children's, railway, and more.
+Boise is the third most populous metropolitan area in the Pacific Northwest, ranking only behind Seattle and Portland. The city is known for its scenic location and accessible downtown area. It’s also a regional hub for jazz and indie music. One of the city’s biggest events is the annual Treefort Music Fest, which features new bands from across the country.
 
-Click to view all jobs: 
-http://www.comphealth.com/therapy?source=et-%%emailname_%%-%%jobid%% 
+View All Jobs > www.comphealth.com/therapy?source=et-%%emailname_%%-%%jobid%% 
+
 ************************************************
 Therapy in the News
 
-Kalamazoo shooting victim leaves rehab.
+Towson professors develop rehabilitation app for stroke survivors.
 
-On February 20, a mass shooting in Kalamazoo left six people dead and two wounded. One of the injured was 14-year-old Abigail Kopf. She sustained a severe head injury and was initially presumed dead at the scene.
+Three professors from Towson University are developing an app that will assist stroke survivors’ recovery efforts. The product is called Armstrokes.
 
-Through Abigail's determination and the support of an incredible staff at Mary Free Bed Rehabilitation Hospital, she is now able to walk, talk, and "almost run down the halls."
+"It's a neat way for stroke survivors to improve their mobile ability," Towson occupational therapy professor Dr. Sonia Lawson said. "A lot of times after a stroke, people have problems with moving. They also have problems with thinking. Our app pretty much targets the moving part."
 
-This is truly an inspirational account of how therapy can help transform lives in the wake of tragedy. You can get the full story by clicking here. 
+The project is being supported by the Aetna Foundation and the School of Emerging Technologies at Towson University. You can get the full story by clicking here.
+http://www.wbaltv.com/health/towson-professors-develop-rehabilitation-app/39471898?source=et-%%emailname_%%-%%jobid%%
 
-www.detroitnews.com/story/news/local/michigan/2016/04/20/kalamazoo-shootingvictim-graduates-physical-therapy/83292290?source=et-%%emailname_%%-%%jobid%%
 
 ************************************************
 800.634.1077
