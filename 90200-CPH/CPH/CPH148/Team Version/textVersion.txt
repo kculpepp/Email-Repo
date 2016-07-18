@@ -1,0 +1,29 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Five career experts for the price of none.
+
+************************************************
+Your %%=LOWERCASE([Primary Specialty])=%% work is most effective when you have a talented support team to rely on. Job searching is no different. Let our staffing team connect you with an ideal locum tenens job and handle all the details.
+
+We’ll be with you every step of the way, handling the details before, during, and after your locum tenens assignment. You’ll enjoy a personal %%=LOWERCASE([Primary Specialty])=%% recruiter, as well as a team of experts to assist:
+
+•   Licensing
+•   Credentialing
+•   Hospital privileges
+•   Travel and housing
+
+View Jobs in Your Specialty > http://comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%% 
+
+************************************************ 
+Call a recruiter to learn more about our %%=LOWERCASE([Primary Specialty])=%% jobs.
+************************************************
+866.588.5996
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

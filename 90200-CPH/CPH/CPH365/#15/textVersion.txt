@@ -1,0 +1,24 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+One license. 50 states.
+
+************************************************
+Still looking for your ideal job? We can get you working now. Government facilities across the country are looking for %%=LOWERCASE([Primary Specialty])=%% physicians who are ready to get to work. No additional licensing required.
+
+It’s the perfect way to push your career forward and gain valuable experience. Plus, with opportunities available nationwide, you can pick the job that fits your lifestyle and goals.
+
+Connect with a Recruiter > http://www.comphealth.com/ppclp/pages/cph365-15.aspx?source=et-%%emailname_%%-%%jobid%%
+
+Questions? 
+Email our %%= Lowercase([resident_fellow])=%% recruiter: kerry.wagner@comphealth.com
+
+***********************************************
+866.704.5284
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

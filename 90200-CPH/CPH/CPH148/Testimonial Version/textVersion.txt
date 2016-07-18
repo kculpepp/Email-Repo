@@ -1,0 +1,34 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Physicians concur about the CompHealth experience
+
+************************************************
+We have the industry’s largest directory of permanent and locum tenens opportunities. And by getting to know your goals and preferences, our staffing experts can help you find the right %%=LOWERCASE([primary specialty])=%% job in the right place.
+
+Here’s what your colleagues are saying about working with CompHealth.
+
+"They take care of everything for me, making sure the licensing and credentialing are done. I really do very little paperwork."
+	Dr. Ricker, Pediatrician
+
+"CompHealth allows me to practice medicine without worrying about the office politics."
+	Dr. Books, Family Medicine
+
+"I get good assignments, working where I want to in the part of the country I want to."
+	Dr. Sheen, Dermatology
+
+View Jobs in Your Specialty > http://comphealth.com/%%Site Specialty Type%%/%%Site Specialty%%?source=et-%%emailname_%%-%%jobid%%
+
+************************************************
+Call a recruiter to learn more about our %%=LOWERCASE([Primary Specialty])=%%
+
+************************************************ 
+866.588.5996
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
