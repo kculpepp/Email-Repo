@@ -1,0 +1,21 @@
+
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Hello,
+
+In the process of creating your most recent paycheck, our system failed to produce the electronic view (a PDF) of your pay stub. Unfortunately, we do not have a way to recreate the PDF and email it to you, but rest assured, your pay was appropriately deposited into your bank account. 
+
+We’ve since remedied the issue, so you can expect to receive an electronic copy of your pay stub for future direct deposits. 
+
+Please accept our apology for any confusion or inconvenience. If you have any questions or would like year-to-date pay information, please contact our Payroll team at 877.222.4272 or chgpayroll@chghealthcare.com.
+
+************************************************
+877.222.4272
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
