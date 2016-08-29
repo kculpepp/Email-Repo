@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"E",
+				"E7E7E7"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"border-color",
+				"border-left-color"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"paddon",
+				"padding-bottom"
+			],
+			[
+				"bg",
+				"background-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"padd",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template.v3.1.min.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template-VT.v3.1.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template.v3.1.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/some.html",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC957/Contents/LOC957-ClientNL-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC957/Contents/LOC957-ClientNL-desktop.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC957/Contents/LOC957-ClientNL-mobile.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#1/Contents/wby848-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/Contents/wby848-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/Contents/wby848-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/readMe.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/Contents/wby848-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#1/Contents/wby848-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/Contents/wby848-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#2/Contents/wby848-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#1/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/#1/readMe.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/readMe.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC952/2016-07-July/Contents/loc952-July-mobile.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC952/2016-07-July/Contents/loc952-July-desktop.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/Contents/div091.1-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/Contents/wby848-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/Contents/wby848-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/Contents/wby848-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY848/Contents/wby848-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/Contents/div091.1-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/Contents/div091.1-Prov-DD-Fix.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/readMe.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/DIV/DIV091.1/Contents/div091.1-footMob - Copy.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH375/CPH375-ASPR-160727.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC957/Pages/LOC957-lp.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC957/Contents/scratch.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC952/2016-07-July/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC952/2016-07-July/readme.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN718/Contents/rnn718-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/OBG/loc935-obg-qualtrics.min.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/OBG/loc935-obg-qualtrics.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN718/Contents/rnn718-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN718/Contents/rnn718-bodyMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN718/Contents/rnn718-bodyDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN718/Contents/rnn718-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH519/HTML/cph519-1.min.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH519/HTML/cph519-1.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH519/HTML/cph519-1.min.min.html",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/node_modules/browser-sync/README.md",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90201-FMS/FMS/FMS411/Contents/FMS411-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90201-FMS/FMS/FMS411/Contents/FMS411-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN726/Content/RNN726-footerMobile.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH365/#15/Landing Page/cph365-15-lp-styles.css",
+		"/C/wamp64/www/fed/cph519-1.html",
+		"/C/wamp64/www/fed/cph511.html",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/Browser Sync/README.md",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/_header.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/partials/all-styles.html",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/dist/index.html",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/_settings.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/footer.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/app.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/six-by-six.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/partials/spacer10.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template.v3.1.min.min.html",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/pages/index.html",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Temp3.1/src/assets/scss/_hero.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Tempe3.0/src/assets/scss/_variables.scss",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Tempe3.0/src/partials/all-styles.pretty.html",
+		"/C/Users/kculpepp/CHG-DEM/Experimental/Comphealth-Tempe3.0/src/partials/all-styles.pretty.pretty.html",
+		"/C/Users/kculpepp/Desktop/project/CompHealth_Template/src/assets/scss/app.scss",
+		"/C/Users/kculpepp/Desktop/project/CompHealth_Template/dist/index.html",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/WakaTime/WakaTime.sublime-settings",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/User/WakaTime.sublime-settings",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/Colorsublime/Colorsublime.sublime-settings",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/Contents/cph148-testimonail-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/Contents/cph148-testimonail-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/Contents/cph148-team-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/zTemplate/EDM/By Job Number/CPH148/cph148-testimonial-temp.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/zTemplate/EDM/By Job Number/CPH350/cph350(grey)-testimonial.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/Contents/cph148-team-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/textVersion.txt",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-sub-cta.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-sub-cta.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/Contents/cph148-team-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/Contents/cph148-team-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Testimonial Version/cph148-testimonail-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Team Version/Contents/cph148-team-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/Data Version/Contents/cph148-data-headline.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/zTemplate/EDM/By Job Number/CPH148/cph148-C-temp.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Pulm/LOC935-pulm-1.html",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/kculpepp/AppData/Roaming/Sublime Text 3/Packages/Browser Refresh/Default (Windows).sublime-keymap",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Hospitalist/LOC935-hospitalist-ty.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/cph148-mobImage.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH148/cph148-deskImage.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Pulm/LOC935-pulm-ty.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Pulm/LOC935-pulm-2.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template.v01.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH511/cph511-Template.html",
+		"/C/Users/kculpepp/Desktop/project/CompHealth_Template/node_modules/gulp-litmus/package.json",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Pulm/LOC935-pulm-3.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH375/CPH375-ASPR-160606.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/CPH/CPH375/CPH375-ASPR-160707.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90204-WBY/WBY/WBY717/2016/WBY717-160706.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Hospitalist/LOC935-hospitalist-2.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90200-CPH/LOC/LOC935/Hospitalist/LOC935-hospitalist-1.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/zTemplate/EDM/1 Column/rnn-blue-singleCol(hero-on-white).html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN786/Contents/rnn786-footMob.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN786/Contents/rnn786-footDesk.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN786/Contents/rnn786-body.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/10933187 - LS/LS037/ls037.min.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/10933187 - LS/LS037/ls037.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN786/Contents/rnn786-hero.html",
+		"/C/Users/kculpepp/CHG-DEM/CHG-EDM Repo/90202-RNN/RNN/RNN786/readMe.md"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 173.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"\n",
+			"class=\"noPadBot\"",
+			"header text",
+			"button",
+			"Spacer 30",
+			"Spacer ",
+			"Spacer 30",
+			"header",
+			"logo",
+			"The help you ne",
+			"Logo",
+			"a hre",
+			"http://comphealth.com",
+			"the help you n",
+			"mso-hide",
+			"sub-",
+			"small-padBot",
+			"the hel",
+			"logo",
+			"word-wrap:normal",
+			"hyphens:auto;",
+			"bottom",
+			"sub-left cta",
+			"<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                        <tbody>\n                            <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                <td height=\"10px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:10px;font-weight:400;hyphens:auto;line-height:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                            </tr>\n                        </tbody>\n                    </table>",
+			"fefefe",
+			"<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"30px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:30px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>",
+			"<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"10px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:10px;font-weight:400;hyphens:auto;line-height:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>",
+			"  <table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"20px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:20px;font-weight:400;hyphens:auto;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>",
+			"preview",
+			"wrapp",
+			"<b",
+			"b",
+			"background:#fefefe",
+			"bg",
+			"888.888",
+			"Five",
+			"li",
+			"list",
+			"180",
+			"800",
+			"ASPR",
+			"</font>",
+			"<font face=\"'open sans light', Arial, Sans Serif\">",
+			"providers.",
+			"@",
+			"our",
+			"find out ho",
+			"find out how",
+			"find hot how",
+			"spacer",
+			"find out how",
+			"Six Reason",
+			"six reason",
+			"your ",
+			"where possible",
+			"small-12 large-9 columns last",
+			"word-wrap:break-word",
+			"-moz-hyphens:auto;-webkit-hyphens:auto;",
+			"padding-bottom",
+			"image left",
+			"lorem ipsum blah",
+			"where possible",
+			"phone-spacing",
+			"job post description",
+			"small-no",
+			"        <!-- Container Separator -->\n        <row class=\"bgcolor\">\n            <columns>\n            </columns>\n        </row>\n        <!--     Container Separator End -->",
+			"i now have time",
+			"190x190?text=190x190",
+			"lorem ipsum",
+			"six",
+			"column",
+			"columns",
+			"column",
+			".bgcolor",
+			"bgcolor",
+			"subheadCap",
+			"5a5a5a",
+			"soo",
+			"“",
+			"”",
+			"’",
+			"“",
+			"custom",
+			"start survey now",
+			"custom",
+			"left",
+			"dr. thieszen story",
+			"out of the wait",
+			"waiting room",
+			"linRule",
+			"linerul",
+			"lineRule",
+			"hr",
+			"dr. thi",
+			"hr",
+			"You may be wondering what to expect moving forward. We have a few emails you’ll see each month to keep you at the forefront of opportunities.",
+			"cphlogo",
+			"break",
+			"word-break",
+			"hyphens:auto;",
+			"-moz-hyphens:auto;-webkit-hyphens:auto;",
+			"88b2d8",
+			"story4",
+			"story 4",
+			"cta goes",
+			"button ",
+			"border:1px solid #E56554",
+			"small",
+			"Take your earning potential out of the waiting room",
+			"grey",
+			"href",
+			"’",
+			"word-wrap:break-word",
+			"-moz-hyphens:auto;-webkit-hyphens:auto;",
+			"580",
+			"’",
+			"your submission",
+			"1pm",
+			"3pm",
+			"5a5a5a",
+			"comphealth",
+			"faq",
+			"logo",
+			"unsubscribe",
+			"block3image",
+			"hyphens:auto;",
+			"-moz-hyphens:auto;-webkit-hyphens:auto;",
+			"word-wrap:normal"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"#?source=et-%%emailname_%%-%%jobid%%&foxid=%%long id%%",
+			"",
+			"<!-- Spacer 10 - Start-->\n<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                        <tbody>\n                            <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                <td height=\"10px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:10px;font-weight:400;hyphens:auto;line-height:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                            </tr>\n                        </tbody>\n                    </table>\n                                                                            <!-- Spacer 10 - End-->",
+			"<!-- Spacer 30 - Start-->\n<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"30px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:30px;font-weight:400;hyphens:auto;line-height:30px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>\n                                                                            <!-- Spacer 30 - End-->",
+			"<!-- Spacer 10 - Start-->\n<table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"10px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:10px;font-weight:400;hyphens:auto;line-height:10px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>\n                                                                            <!-- Spacer 10 - End-->",
+			"<!-- Spacer 20 - Start-->\n                                                                            <table class=\"spacer\" style=\"border-collapse:collapse;border-spacing:0;padding:0;text-align:left;vertical-align:top;width:100%\">\n                                                                                <tbody>\n                                                                                    <tr style=\"padding:0;text-align:left;vertical-align:top\">\n                                                                                        <td height=\"20px\" style=\"Margin:0;border-collapse:collapse!important;color:#444;font-family:'Open Sans',Arial,sans-serif;font-size:20px;font-weight:400;hyphens:auto;line-height:20px;margin:0;mso-line-height-rule:exactly;padding:0;text-align:left;vertical-align:top\">&#xA0;</td>\n                                                                                    </tr>\n                                                                                </tbody>\n                                                                            </table>\n                                                                            <!-- Spacer 20 - End-->",
+			"100%",
+			"",
+			"{{> spacer10}}",
+			"200",
+			"acacac",
+			"\"",
+			"'",
+			"\"",
+			"",
+			"8b769c",
+			"",
+			"gray",
+			"'",
+			"",
+			"600",
+			"'",
+			"acacac",
+			"  ",
+			" ",
+			" Open Sans Light",
+			" 8b769c",
+			" ",
+			"  ",
+			" "
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 204.0
+	},
+	"pinned_build_system": "",
+	"project": "CPH511-Template-Project.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wby66",
+				"90204-WBY\\WBY\\WBY663\\Contents\\wby663-footMob.html"
+			],
+			[
+				"wby",
+				"90204-WBY\\WBY\\WBY663\\Contents\\wby663-footDesk.html"
+			],
+			[
+				"",
+				"CHG-EDM Repo\\90200-CPH\\GRR\\GRR437\\Contents\\GRR437-featuredJobLocations.html"
+			],
+			[
+				"ther",
+				"CHG-EDM Repo\\90200-CPH\\GRR\\GRR437\\Contents\\GRR437-TherapyInTheNews.html"
+			],
+			[
+				"fea",
+				"CHG-EDM Repo\\90200-CPH\\GRR\\GRR437\\Contents\\GRR437-featuredJobLocations.html"
+			],
+			[
+				"spotlight",
+				"CHG-EDM Repo\\90200-CPH\\GRR\\GRR437\\Contents\\GRR437-Spotlight.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,25 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add locumstory@locumstoryinfo.com to your address book
+************************************************
+Work there before you decide to go there
+
+************************************************
+Physician jobs often require relocation. Going into an unfamiliar practice setting and community can be a difficult transition. Locum tenens jobs give you the ability to try many different locations and practices. It's a true "try before you buy" approach to making career decisions. Some physicians, like Dr. Johnny Shen, even opt to continue taking locum tenens assignments because of the freedom they offer. Here's some advice that Dr. Shen has for physicians looking to work locum tenens.
+
+view Dr. Shen's story > https://www.youtube.com/watch?v=6_EPxCAbze0&feature=youtu.be&source=et-%%emailname_%%-%%jobid%%
+
+http://www.locumstory.com?source=et-%%emailname_%%-%%jobid%% 
+
+Locumstory's Facebook:	https://www.facebook.com/locumstory/?fref=ts&source=et-%%emailname_%%-%%jobid%%
+Locumstory's Twitter:	https://twitter.com/locumstory?source=et-%%emailname_%%-%%jobid%%
+Locumstory's Youtube:	https://www.youtube.com/channel/UCOvv6lhydVTc0bXR1s8vy-w
+
+locum tenens jobs can lead to permanent jobs > http://www.comphealth.com/resources/locum-tenens/how-to-use-a-temporary-assignment-to-land-a-permanent-job/?source=et-%%emailname_%%-%%jobid%% 
+
+************************************************
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

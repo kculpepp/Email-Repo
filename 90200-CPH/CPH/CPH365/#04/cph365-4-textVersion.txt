@@ -1,0 +1,26 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Turn career options into 
+job offers.
+
+************************************************
+As you think about finding your post-%%[ if @rf == 'Residents' then ]%%residency%%[ endif ]%%%%[ if @rf == 'Fellows' then ]%%fellowship%%[ endif ]%% job, the good news is you have lots of options. The bad news? You have lots of options. Don’t fear. We’ll be with you every step of the way to find the job that’s just right for you. Our free personal service helps you find jobs, write your CV, ace your interview, and get you hired.
+
+%%[ if @rf == 'Residents' then ]%%Get Started > http://www.comphealth.com/ppclp/pages/cph365-4r-lp.aspx?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email%%[ endif ]%%%%[ if @rf == 'Fellows' then ]%%
+Get Started > http://www.comphealth.com/ppclp/pages/cph365-4f-lp.aspx?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+%%[ endif ]%%
+
+Contact our %%=LOWERCASE([resident_fellow])=%% recruiter at kerry.wagner@comphealth.com.
+
+************************************************
+866.704.5284
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

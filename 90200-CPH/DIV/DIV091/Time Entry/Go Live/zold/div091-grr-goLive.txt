@@ -1,0 +1,29 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+%%First Name%%,
+
+Your life just got a lot easier, because online time entry is here. To get started, you'll need to create an account. If you've used the online application within the past six months, you'll actually be able to use your existing login.
+
+To log in and begin submitting your time, click the link below:
+
+https://my.comphealth.com/CommunitiesLogin?source=et-%%emailname_%%-%%jobid%% 
+
+We're excited to offer you this benefit, and we'll reach out to you in a few weeks to get your thoughts on the process.
+
+If you have any questions, please contact our payroll team at 800.634.9581. I’m also happy to help answer any concerns you might have.
+
+%%Rep%%
+%%Rep Email%%
+%%Rep Phone%%
+
+************************************************
+800.634.9581
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 

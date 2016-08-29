@@ -1,0 +1,30 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. 
+%%view_email_url%% 
+
+To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
+************************************************
+Dear %%First Name%%,
+
+We’re happy to let you know that online pay approval has begun. This important change will help us improve your experience by simplifying the collection and approval of work records, thereby reducing timekeeping errors and disputes.
+
+You will receive an email from the PeopleNet system when work records are ready to be approved. You can then easily approve the time entry on any smartphone, tablet, or computer.
+
+Learn more about the online approval process by checking out our Quick Start Guide(http://comphealth.com/time-approval-guide?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%).
+
+We're excited to offer you this benefit, and we'll reach out to you in a few weeks to get your thoughts on the process.
+
+Your participation is greatly appreciated. If you have any questions, please contact our payroll team at %%[ if @div == 'CHS' then ]%%877.222.2809%%[ endif ]%%%%[ if @div == 'GRA' then ]%%800.634.9581%%[ endif ]%%%%[ if @div == 'CHA' then ]%%877.222.2478%%[ endif ]%%. I’m also happy to help answer any concerns you might have.
+
+%%Rep%%
+%%Rep Email%%
+%%Rep Phone%%
+
+************************************************
+Footer
+
+We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%% 
