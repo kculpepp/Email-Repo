@@ -1,0 +1,25 @@
+To view this email as a web page, go to the link below, or copy and paste it into your browser's address window. %%view_email_url%%
+
+To make sure you receive our emails, please add locumstory@locumstoryinfo.com to your address book
+************************************************
+locumstory.com (http://www.locumstory.com)
+
+Take one spa treatment 
+and we'll see you in the morning
+
+************************************************
+Looking for a little relaxation at FMX in Orlando? You’re invited to our spa event, where you can choose from five different spa treatments. Food and drinks will be served, so feel free to linger. Rather than a recruiting event, this is a chance to talk to other physicians about how they improve their work/life balance with locum 
+tenens. No pressure, just answers.
+
+Wednesday, September 21 
+6:30-8:30pm 
+Hyatt Regency Spa
+
+reserve your spa treatment > https://locumstoryspanight.eventbrite.com?source=et-%%emailname_%%-%%jobid%% 
+
+************************************************
+Update Profile/ Unsubscribe   |   %%profile_center_url%%
+%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
+
+This Email Was Sent by %%Member_Busname%%
+%%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%	

@@ -2,76 +2,87 @@
 
 To make sure you receive our emails, please add comphealth@comphealthinfo.com to your address book
 ************************************************
-Traveler’s Corner
+Traveler's Corner
 The Monthly Newsletter for Traveling Therapists
 %%=Format(Now(), "MMMM yyyy")=%%
 
 ************************************************
 Bulletin Board
 ************************************************ 
-Thanks for making weekly pay a success.
+Online time entry is here.
 
-We appreciate your support as we’ve transitioned from biweekly to weekly payroll. If you have any questions or concerns, please contact your CompHealth rep.
+Our pilot program for provider online time entry and client online time approval has been a success. We'll continue adding more providers in stages, and you will be contacted in advance if your payroll will be done in the online time entry system. It will make tracking and entering time much easier for you!
+
+Continuing education.
+
+CompHealth encourages ongoing education and career development. The following association websites are useful resources for continuing education courses:
+
+Occupational Therapy
+   - http://www.aota.org?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.occupationaltherapy.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.advanceweb.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+
+Physical Therapy
+   - http://www.apta.org?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.physicaltherapy.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.advanceweb.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+
+Speech Language Therapy
+   - http://www.asha.org?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.advanceweb.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+   - http://www.speechpathology.com?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
+
 
 ************************************************
 Spotlight
 ************************************************
-Nicole D., PT
+Jackie C., OT
 
-As a 10-year-old, Nicole participated in a "Take Your Daughter to Work Day" with a family friend. The woman worked as an aide in an outpatient clinic, and after shadowing her, Nicole decided she wanted to be a physical therapist when she grew up.
+From experiencing Southern hospitality in the Carolinas to exploring a ghost town in California, travel assignments have helped Jackie see the nation like never before.
 
-In high school, Nicole took every opportunity to learn more about the profession. “I gravitated towards anatomy and biology in school,” she says. “And I continued to shadow therapists, enjoying all aspects of the profession and the dedication of therapists to help their patients.”
+"Travel jobs are in line with my hobbies and interests," says Jackie. "As a permanent employee, I couldn't accrue PTO fast enough to go and see the places I wanted to. As a traveler, I'm basically on a perpetual vacation."
 
-When Nicole shadowed a therapist who worked travel assignments, she discovered a new option for her future career. “I always enjoyed exploring and traveling, and this seemed to be the best of both worlds,” recalls Nicole.
+In addition to the fun side of things, each assignment has given Jackie exposure to different therapists who help her better herself professionally. She feels that the more she travels to different places, the more she'll be able to add skills to her repertoire.
 
-Nicole has now worked assignments with CompHealth in Ohio, Indiana, Alaska, Washington, California, and Arizona.
+During her time off, Jackie enjoys exploring national/state parks and historic sites. Learning about the regional culture and contributing to her community are among her chief priorities.
 
-
-“The majority of my time in Alaska was very memorable,” says Nicole. “I was able to see the northern lights, the Yukon Quest, and attempt dog-sledding and curling.”
-
-Learning about the culture of each area is enjoyable for Nicole. She loves getting to know the locals and hearing their stories. And when she’s not meeting new people, you can often find her checking out a coffee shop, restaurant, winery, or bookstore.
-
-Travel Photo Contest
-************************************************
-Love to travel? Do you enjoy taking pictures? Then we have the contest for you. Share your favorite travel photo here (https://business.facebook.com/comphealth/app/782845158439498/?business_id=898578220197141&ref=page_internal&foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%) for a chance to win one of three $100 Visa gift cards. The contest ends August 26, so be sure to get your photo submitted by then.
+"I've found that it's really rewarding to get involved and find volunteer opportunities in the area," she says. "It's a great way to give back to where I'm visiting and meet like-minded people."
 
 ************************************************
 Featured Job Locations
+************************************************ 
+We've recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
 
-We’ve recently had jobs available in these locations for one or more specialties. Ask your provider rep for more details if one of them sounds like a fit for you.
+Woodland Hills, CA
 
-Oak Bluffs, MA
+Nestled against the Santa Monica Mountains in the San Fernando Valley, this city is known for its outdoor activities and pleasant Mediterranean climate. Along the western boundary of Woodland Hills is the large Upper Las Virgenes Canyon Open Space Preserve, a gorgeous park with a network of trails for hiking, mountain biking, and equestrian rides.
 
-This charming hamlet is known for its "gingerbread cottages" and other mid- to late-nineteenth-century buildings. With so many well-preserved homes and other historical structures, visitors to Oak Bluffs are taken back in time. The town is also home to the largest marina on Martha's Vineyard, making it easy to explore the island and the surrounding areas.
+Baltimore, MD
 
-Carlsbad, NM
+The largest city in Maryland, Baltimore sits along the Patapsco River, an arm of the Chesapeake Bay. It played a key role in events of the American Revolution and boasts 72 designated historic districts. These include Inner Harbor, famous for its shops and museums; Fells Point, which was featured in Sleepless in Seattle; and Little Italy, where you’ll find superb Italian food.
 
-Located in the Chihuahuan Desert on the beautiful Pecos River, Carlsbad’s tree-lined streets, numerous public parks, and the public beach and greenway along Lake Carlsbad have earned it the title of "The Pearl on the Pecos." Carlsbad Caverns National Park is located just 18 miles away, and hiking, golfing, and water sports offer the perfect way to enjoy your sunshine-filled days.
+Fallon, NV
 
-South Haven, MI
+Fallon is known as the “Oasis of Nevada.” In town, you’ll find excellent art galleries, museums, and nightclubs. Fallon is surrounded by wide-open spaces, internationally known wetlands, Pony Express trails, state parks, hiking opportunities, and places to go off-road. It also offers historical adventures in places like Grimes Point and Hidden Cave.
 
-The beach town of South Haven offers lakeside fun, swimming, canoeing, kayaking, nature trails, and golf courses. Regardless of the season, there are plenty of things to do in this stunningly scenic region of the country. In addition to the abundant outdoor activities, there are plenty of cultural opportunities, as South Haven boasts award-winning restaurants and wineries.
-
-View All Jobs > www.comphealth.com/therapy?source=et-%%emailname_%%-%%jobid%% 
+View All Jobs > www.comphealth.com/therapy?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email
 
 ************************************************
 Therapy in the News
+************************************************ 
+Recovering in reality with augmented reality games.
 
-Hearing loss affects 48 million people in the United States, and technological advances continue to provide new treatment options for those who seek it. One of these devices is a vest, which uses vibrating motors, that could allow deaf individuals to feel speech.
+An app called SpellBound is helping children practice their fine motor skills while they recover from injuries and illnesses. The app was created by Christina York and her startup company, ALTality. The company began about a year and a half before “Pokemon Go” became an international phenomenon. Now it works in conjunction with “Pokemon Go” and other augmented reality games.
 
-“The thing to note is that this is exactly what your inner ear does,” said David Eagleman, a co-creator of the vest. “Your inner ear just breaks things up into frequencies and you’ve got from high to low and that’s how your brain receives the information.”
+“AR has fascinated me, and I think there are a lot of problems which augmented reality can help solve,” York said.
 
-While the vest is still in the development stage, it could eventually be an affordable alternative to current devices like cochlear implants.
-
-You can get the full story by clicking here (http://www.wndu.com/content/news/Hearing-Vest-allowing-the-deaf-to-feel-speech-385592881.html?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%).
-
+SpellBound has been a big success, so York is now focusing on new technology to help pediatric hospitals entertain and engage patients. You can get the full story by clicking here (http://www.detroitnews.com/story/news/local/michigan/2016/08/13/augmented-reality-patient-rehabilitation/88689088/?foxid=%%long id%%&source=et-%%emailname_%%-%%jobid%%&utm_source=newsletter&utm_medium=email).
 
 ************************************************
 800.634.1077
 
 We Respect Your Right to Privacy   |   http://www.comphealth.com/privacy-policy?source=et-%%emailname_%%
 Update Profile/ Unsubscribe   |   %%profile_center_url%%
-%%= v(@footerLinkText) =%%   |   %%= v(@footerLinkURL) =%%
 
 This Email Was Sent by %%Member_Busname%%
 %%Member_Addr%%, %%Member_City%%, %%Member_State%% %%Member_PostalCode%% %%Member_Country%%
